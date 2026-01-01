@@ -909,33 +909,6 @@
     },
     {
         "@search.score": 1.0,
-        "Id": "65140",
-        "InstitutionId": 66,
-        "ParentOrganizationId": 62529,
-        "BranchId": 62529,
-        "Name": "Alpha Chi Omega",
-        "ShortName": "AXO",
-        "WebsiteKey": "alphachiomega",
-        "ProfilePicture": "ff98edc0-4790-4543-8f47-b24309fbbaf76bfa1e9f-3857-4a04-927a-78568250e804.png",
-        "Description": "\r\n<p>Hello Everyone!</p>\r\n<p>Welcome to the Theta Chapter of Alpha Chi Omega at the University of Michigan. With an active focus in social, philanthropic, and sisterhood activities, the young women of Alpha Chi strive to make an impact in our community and the Michigan campus as a whole.</p>\r\n<p>Each one of our young women is unique. With members from the east to the west coast, and even overseas, our various backgrounds help to enrich the experiences of every Alpha Chi. From an academic standpoint, diversity continues to shape our house with members\r\n pursuing degrees in Literature, Science, and the Arts, Engineering, Art and Design, Nursing, Business, and much more. Members of the Theta Chapter not only uphold their academic integrity, but they also strive to uphold the other principles of an Alpha Chi\r\n as well such as personal development and their leadership abilities. Our young women are active in over 80 organizations on campus ranging from A Cappella groups to club sports and many hold prominent leadership positions throughout campus.</p>\r\n<p>Although each member is different and we are a diverse chapter, the presence of Alpha Chi Omega and the sisterhood that it offers shape our college experiences in a similar way. Activities such as painting \u201cthe rock,\u201d all chapter lunches,&nbsp;as well as picnics\r\n in the Arb, and philanthropy events help bring together the different pledge classes of the Theta Chapter.</p>\r\n<p>Giving back to the Ann Arbor community is one of the most rewarding aspects of being an Alpha Chi at Michigan. Because the Women\u2019s Center of Southeastern Michigan is located right here in Ann Arbor, we are lucky enough to have members volunteer their time\r\n weekly to help women and children in need. It is in this way that our members are fortunate enough to personally see their hard philanthropic work be put to use. We take pride in philanthropic endeavors throughout the year and encourage our members to pursue\r\n community service regularly. We regularly participate in other sororities\u2019 and fraternities\u2019 philanthropies as well as in the University-wide Greek Week to support various philanthropic organizations in the area.</p>\r\n<p>The Theta Chapter of Alpha Chi Omega truly is \u201cThe Michigan Difference.\u201d &nbsp;To all of the alumnae, please feel free to contact me at axoumichpresident@gmail.com for any information about our chapter! We would love to hear your success stories and about how\r\n the bonds that we will create today extend beyond these four years at Michigan.</p>\r\n<p>Best wishes,</p>\r\n<p>Chapter President</p>\r\n",
-        "Summary": "With an active focus in social, philanthropic, and sisterhood activities, the young women of Alpha Chi strive to make an impact in our community and the Michigan campus as a whole.",
-        "CategoryIds": [
-            "3659",
-            "18511",
-            "18522",
-            "18526"
-        ],
-        "CategoryNames": [
-            "Social Fraternity/Sorority",
-            "Time Commitment: 1-2 hours/week",
-            "Joining Process: Rush Process",
-            "Cost: $501+/Semester"
-        ],
-        "Status": "Active",
-        "Visibility": "Public"
-    },
-    {
-        "@search.score": 1.0,
         "Id": "69736",
         "InstitutionId": 66,
         "ParentOrganizationId": 62529,
@@ -1172,33 +1145,6 @@
             "Joining Process: Interview",
             "Joining Process: Rush Process",
             "Cost: $101-$250/Semester"
-        ],
-        "Status": "Active",
-        "Visibility": "Public"
-    },
-    {
-        "@search.score": 1.0,
-        "Id": "175598",
-        "InstitutionId": 66,
-        "ParentOrganizationId": 62529,
-        "BranchId": 62529,
-        "Name": "Alpha Omega Campus Ministry",
-        "ShortName": "Alpha Omega",
-        "WebsiteKey": "alphaomegacampusministry",
-        "ProfilePicture": "485d0277-4cee-4a3b-b92d-c01e2a445abfaeaefc8f-1b66-4416-bfbb-914b378b3be2.png",
-        "Description": "<div id=\"x_x_x_x_x_x_x_x_x_x_x_x_x_bgLayers_comp-lgpwf27s\" class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_MW5IWV\">\r\n<div id=\"x_x_x_x_x_x_x_x_x_x_x_x_x_bgMedia_comp-lgpwf27s\" class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_VgO9Yg\">&nbsp;</div>\r\n</div>\r\n<div class=\"\">\r\n<div>\r\n<div id=\"x_x_x_x_x_x_x_x_x_x_x_x_x_comp-lgpwwe4c\" class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_MazNVa x_x_x_x_x_x_x_x_x_x_x_x_x_comp-lgpwwe4c x_x_x_x_x_x_x_x_x_x_x_x_x_wixui-image\">\r\n<div class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_j7pOnl\">The Ann Arbor Church Campus Ministry is Alpha Omega (AO) at the University of Michigan and Eastern Michigan University. Our goal is to teach college students what it means to follow Jesus, and create a community that helps each other do just that. Alpha Omega is a place for students to create lasting memories, experience personal growth through a deep, personal relationship with God and other Christians. Our ministry participates in game nights, devotionals, retreats, and sporting events in an effort to build family, and meet new people in the community.</div>\r\n</div>\r\n</div>\r\n</div>",
-        "Summary": "Alpha Omega Campus Ministry is established for the expressed purpose of meeting the spiritual needs of college students. Our goal is to teach college students what it means to follow Jesus, and create a community that helps each other do just that.",
-        "CategoryIds": [
-            "3657",
-            "18506",
-            "18512",
-            "18519"
-        ],
-        "CategoryNames": [
-            "Religious/Spiritual",
-            "Cost: $0/Semester",
-            "Time Commitment: 3-5 hours/week",
-            "Joining Process: Automatic Acceptance"
         ],
         "Status": "Active",
         "Visibility": "Public"
@@ -1607,7 +1553,7 @@
         "ShortName": "",
         "WebsiteKey": "amazinblue",
         "ProfilePicture": "0160040b-6ce4-4c1d-9ea5-f29dcdf01f8124b9e972-4021-44e6-8285-fea81d221edd.png",
-        "Description": "<p class=\"x_x_x_x_p1\">Amazin&rsquo; Blue is the University of Michigan&rsquo;s oldest all gender a cappella ensemble. Since its founding in 1987, Amazin&rsquo; Blue or (as it&rsquo;s know to it&rsquo;s friends) AB, has produced 14 studio albums, performed around the nation, and is one of the most decorated a cappella groups at U of M. The groups dedication and commitment to excellence and creative expression is only outshone by their tight knit community. AB performs at a multitude of events on and off campus, singing a collection of pop, rock, blues, and jazz covers in addition to competing at national events such as ICCA&rsquo;s and most recently receiving acknowledgment for their work at the Los Angeles A cappella Festival.</p>\r\n<p class=\"x_x_x_x_p1\">AB is proudly supported by the University Activities Center and is one of 16 members of the Michigan A Cappella Council.</p>\r\n<p class=\"x_x_x_x_p1\">Amazin' Blue is available to perform at concerts, charity events, or other entertainment events. Feel free to contact us about potential performances, questions about auditions or any other queries to <a href=\"mailto:uofmamazinblue@gmail.com\">uofmamazinblue@gmail.com</a></p>",
+        "Description": "<p class=\"x_x_x_x_x_x_x_x_p1\">Amazin&rsquo; Blue is the University of Michigan&rsquo;s oldest all gender a cappella ensemble. Since its founding in 1987, Amazin&rsquo; Blue or (as it&rsquo;s know to it&rsquo;s friends) AB, has produced 14 studio albums, performed around the nation, and is one of the most decorated a cappella groups at U of M. The groups dedication and commitment to excellence and creative expression is only outshone by their tight knit community. AB performs at a multitude of events on and off campus, singing a collection of pop, rock, blues, and jazz covers in addition to competing at national events such as ICCA&rsquo;s and most recently receiving acknowledgment for their work at the Los Angeles A cappella Festival.</p>\r\n<p class=\"x_x_x_x_x_x_x_x_p1\">AB is proudly supported by the University Activities Center and is one of 16 members of the Michigan A Cappella Council.</p>\r\n<p class=\"x_x_x_x_x_x_x_x_p1\">Amazin' Blue is available to perform at concerts, charity events, or other entertainment events. Feel free to contact us about potential performances, questions about auditions or any other queries to <a href=\"mailto:uofmamazinblue@gmail.com\">uofmamazinblue@gmail.com</a></p>",
         "Summary": "Amazin' Blue is the University of Michigan's oldest co-ed a cappella ensemble. Founded in 1987, AB has produced 14 studio albums, performed around the nation, and is one of the most decorated a cappella groups at U of M.",
         "CategoryIds": [
             "3650",
@@ -2146,6 +2092,35 @@
     },
     {
         "@search.score": 1.0,
+        "Id": "79379",
+        "InstitutionId": 66,
+        "ParentOrganizationId": 62529,
+        "BranchId": 62529,
+        "Name": "American Nuclear Society Student Chapter at the University of Michigan",
+        "ShortName": "ANS",
+        "WebsiteKey": "ans",
+        "ProfilePicture": "735ca453-6d7e-49a5-91d3-035120c22ce2ea003582-0388-4233-a407-d48d3b289abb.png",
+        "Description": "<p>We are the student chapter of the American Nuclear Society at the University of Michigan. The American Nuclear Society (ANS) is the premier organization for those that embrace the nuclear sciences and technologies for their vital contributions to improving people&rsquo;s lives and preserving the planet.</p>\r\n<p>We host professional development, social, and outreach events throughout the semester for those interested in Nuclear Science and Engineering.</p>",
+        "Summary": "Organization for those interested in nuclear technology, medicine and engineering.",
+        "CategoryIds": [
+            "3652",
+            "3654",
+            "18506",
+            "18511",
+            "18519"
+        ],
+        "CategoryNames": [
+            "Science/Technology/Engineering",
+            "Graduate/Professional",
+            "Cost: $0/Semester",
+            "Time Commitment: 1-2 hours/week",
+            "Joining Process: Automatic Acceptance"
+        ],
+        "Status": "Active",
+        "Visibility": "Public"
+    },
+    {
+        "@search.score": 1.0,
         "Id": "68610",
         "InstitutionId": 66,
         "ParentOrganizationId": 62529,
@@ -2349,33 +2324,6 @@
     },
     {
         "@search.score": 1.0,
-        "Id": "225543",
-        "InstitutionId": 66,
-        "ParentOrganizationId": 62529,
-        "BranchId": 62529,
-        "Name": "American Student Dental Association at the University of Michigan",
-        "ShortName": "ASDA",
-        "WebsiteKey": "umichasda",
-        "ProfilePicture": "4f95fe42-6f68-4e10-a5bd-39801fd56d671e20a80f-83b1-4d68-a99f-73683fa00efa.png",
-        "Description": "\r\n<p>ASDA is a national student-run organization that protects and advances the rights, interests, and welfare of dental students.&nbsp;</p>\r\n",
-        "Summary": "ASDA is a national student-run organization that protects and advances the rights, interests, and welfare of dental students.\r\n",
-        "CategoryIds": [
-            "3648",
-            "3654",
-            "3655",
-            "3658"
-        ],
-        "CategoryNames": [
-            "Activism",
-            "Graduate/Professional",
-            "Health & Wellness",
-            "Service/Service Learning"
-        ],
-        "Status": "Active",
-        "Visibility": "Public"
-    },
-    {
-        "@search.score": 1.0,
         "Id": "344394",
         "InstitutionId": 66,
         "ParentOrganizationId": 62529,
@@ -2517,6 +2465,29 @@
             "3660"
         ],
         "CategoryNames": [
+            "Sport Clubs & Recreation"
+        ],
+        "Status": "Active",
+        "Visibility": "Public"
+    },
+    {
+        "@search.score": 1.0,
+        "Id": "220581",
+        "InstitutionId": 66,
+        "ParentOrganizationId": 62529,
+        "BranchId": 62529,
+        "Name": "Ann Arbor Melee",
+        "ShortName": "A2Melee",
+        "WebsiteKey": "a2melee",
+        "ProfilePicture": "74148be8-d796-400e-a6d5-446eaf9d95f7b8161521-90cb-4431-ba73-b41051bb404c.png",
+        "Description": "\r\n<p>Ann Arbor Melee is a club created to host Super Smash Brothers Melee tournaments and meetings. We wish to create a safe space for people to enjoy themselves and compete against other students. By also trying to get new members involved in the club, we hope\r\n to educate the U-M population on the growing world of e-sports.</p>\r\n",
+        "Summary": "A club dedicated to hosting weekly tournaments/hangouts for Super Smash Brothers Melee. Our goal is to provide a location for people to hang out and be able to have fun or meet new people. A secondary goal is to increase general knowledge of e-sports.",
+        "CategoryIds": [
+            "3650",
+            "3660"
+        ],
+        "CategoryNames": [
+            "Creative & Performing Arts",
             "Sport Clubs & Recreation"
         ],
         "Status": "Active",
@@ -2672,8 +2643,8 @@
         "ShortName": "APEX",
         "WebsiteKey": "apex",
         "ProfilePicture": "8ff200d2-20d5-468c-8f38-1080da333de6e570ad57-fef8-4d55-9565-d632715424ca.jpg",
-        "Description": "\r\n<p>The purpose of APEX Consulting Group is to give students exposure to interacting in a client driven business and developing solutions to real world business problems. We specialize in providing quality work for organizations in their developmental stage,\r\n with projects ranging from product development to revenue strategies to human capital programs.&nbsp;</p>\r\n<p>During semester long engagements with clients, analysts will develop skills in data analysis, effective communication, and problem solving. We also provide professional development and private networking opportunities for students interested in a variety\r\n of careers including consulting, finance, and technology.</p>\r\n<p>If you are interested in joining our organization, please join our mailing list at&nbsp;https://tinyurl.com/W23interest and check out our website at apexconsulting.org</p>\r\n",
-        "Summary": "APEX Consulting Group is an undergraduate organization that provides pro-bono consulting services for local businesses, startups, and nonprofits. Through our work, we strive to create value for clients and provide development for our members.",
+        "Description": "<p>APEX Consulting Group is an award-winning student-led consulting organization at the University of Michigan.</p>\r\n<p>At APEX, we provide quality consulting services for local businesses, innovative startups, and industry-leading companies each semester with over 130 satisfied clients. We pride ourselves on our entrepreneurial approach when addressing our clients' needs and the impact that we make by exceeding expectations and fostering sustainable growth.</p>\r\n<p>We also work towards enriching the experiences of students from all academic backgrounds and majors through these hands-on consulting projects, equipping them with the skills and experiences necessary to grow into strategic leaders with the ability to excel in any line of work they are passionate about.</p>\r\n<p>Contact apex-eboard@umich.edu for any questions regarding our organization or the services we provide.</p>",
+        "Summary": "APEX Consulting Group is a student-led consulting organization that works with local businesses, innovative startups, and Fortune 500 clients. APEX aids members in securing the professional and personal development they need to succeed in the future.",
         "CategoryIds": [
             "3654",
             "16550",
@@ -4421,8 +4392,8 @@
         "ShortName": "Brothers Under Christ / BYX",
         "WebsiteKey": "betaupsilonchi",
         "ProfilePicture": "6cbb5c3b-a488-4cc6-b4f1-7ba4907b5da730238f1f-c174-45f7-b089-e0655d47e2b1.jpg",
-        "Description": "<p>We are a lifelong brotherhood of committed Christian men seeking the bonds of brotherhood and unity in Christ through the avenue of a social fraternity on a college campus.</p>\r\n<p>Established in 2013.&nbsp;</p>\r\n<p>Questions about rushing? Email ethanlan@umich.edu (President) for more information.&nbsp;</p>\r\n<p><a href=\"https://www.youtube.com/watch?v=FVXhvKaJuhw\"><strong>RUSH BYX!&nbsp;</strong></a></p>",
-        "Summary": "Beta Upsilon Chi, a National Christian Fraternity, exists for the purpose of establishing brotherhood and unity among college men based on the common bond of Jesus Christ.",
+        "Description": "<p>We are a lifelong brotherhood of committed Christian men seeking the bonds of brotherhood and unity in Christ through the avenue of a social fraternity on a college campus.</p>\r\n<p>Established in 2013.&nbsp;</p>\r\n<p>Questions about rushing? Email grubj@umich.edu (Recruitment Coordinator) for more information.&nbsp;</p>\r\n<p>Join our party <a href=\"https://groupme.com/join_group/103916678/8WXIG87Z\">GroupMe</a> for updates on our next event!</p>\r\n<p><a href=\"https://www.youtube.com/watch?v=FVXhvKaJuhw\"><strong>RUSH BYX!&nbsp;</strong></a></p>",
+        "Summary": "Beta Upsilon Chi, a national Christian social Fraternity, exists for the purpose of establishing brotherhood and unity among college men based on the common bond of Jesus Christ.",
         "CategoryIds": [
             "3657",
             "3659"
@@ -4665,6 +4636,37 @@
             "Cost: $0/Semester",
             "Time Commitment: 1-2 hours/week",
             "Joining Process: Automatic Acceptance"
+        ],
+        "Status": "Active",
+        "Visibility": "Public"
+    },
+    {
+        "@search.score": 1.0,
+        "Id": "78679",
+        "InstitutionId": 66,
+        "ParentOrganizationId": 62529,
+        "BranchId": 62529,
+        "Name": "Biology Student Alliance",
+        "ShortName": "BSA",
+        "WebsiteKey": "biologystudentalliance",
+        "ProfilePicture": "62b75795-f83f-45ea-ab00-6f0d6385ebd540b69119-aecc-4b64-bf23-3aae50750bad.png",
+        "Description": "\r\n<p>Biology Student Alliance (BSA) is the largest biology-related student organization on campus with an aim to provide all students interested in biology a platform to socialize, connect with peers and mentors, help around the Ann Arbor community, and gain\r\n exposure to the different biology-focused career paths and topics. Through our academic talks, academic workshops, social events, and community service events, BSA encourages students to investigate new careers and research topics through our faculty and guest\r\n speaker presentations as well as our post-graduate panels.&nbsp;</p>\r\n<p>Email the executive board at&nbsp;<a href=\"mailto:bsa-eboard@umich.edu\" target=\"_blank\" rel=\"noopener\">bsa-eboard@umich.edu</a>&nbsp;for more information. Also like us on\r\n<a href=\"https://www.facebook.com/bsaumich\">Facebook</a>&nbsp;and follow us on <a href=\"https://www.instagram.com/umichbsa/\">\r\nInstagram</a>.&nbsp;We look forward to having you onboard!</p>\r\n",
+        "Summary": "Biology Student Alliance (BSA) promotes the exploration and discussion of the field of biology. Events feature faculty and guest research presentations, student panels &amp; professional workshops, and community service as well as mentoring and networkin",
+        "CategoryIds": [
+            "3649",
+            "3652",
+            "3658",
+            "18506",
+            "18511",
+            "18521"
+        ],
+        "CategoryNames": [
+            "Academic/Honor Societies",
+            "Science/Technology/Engineering",
+            "Service/Service Learning",
+            "Cost: $0/Semester",
+            "Time Commitment: 1-2 hours/week",
+            "Joining Process: Meeting/Social Attendance"
         ],
         "Status": "Active",
         "Visibility": "Public"
@@ -5332,6 +5334,35 @@
             "Cultural/Ethnic",
             "Science/Technology/Engineering",
             "Health & Wellness"
+        ],
+        "Status": "Active",
+        "Visibility": "Public"
+    },
+    {
+        "@search.score": 1.0,
+        "Id": "374071",
+        "InstitutionId": 66,
+        "ParentOrganizationId": 62529,
+        "BranchId": 62529,
+        "Name": "Black Undergraduate Psychological Association",
+        "ShortName": "BUPA",
+        "WebsiteKey": "bupa",
+        "ProfilePicture": "f4297405-9db4-4527-8ba6-a3e2dca612bf030083bf-226b-48e0-b210-0270a94705e0.png",
+        "Description": "<p><span style=\"font-weight: 400;\">The Black Undergraduate Psychological Association aims to</span><span style=\"font-weight: 400;\">&nbsp;provide academic, professional, and social support to Black undergraduate students who are interested in psychology and/or pursuing a degree in psychology. BUPA will also </span><span style=\"font-weight: 400;\">facilitate opportunities for Black undergraduate students to engage in research, internships, and other experiential learning opportunities in the field of psychology.&nbsp;</span><span style=\"font-weight: 400;\">BUPA will promote diversity, equity, inclusion, and well-being in the field of psychology and in the broader community and</span><span style=\"font-weight: 400;\">&nbsp;foster a sense of community and belonging among Black undergraduate students who are interested in psychology.&nbsp;</span><span style=\"font-weight: 400;\">Lastly, BUPA will provide educational programming and events that highlight the experiences and perspectives of Black individuals in the field of psychology.</span></p>",
+        "Summary": "The Black Undergraduate Psychological Association aims to provide academic, professional, and social support to Black undergraduate students who are interested in psychology and/or pursuing a degree in psychology. ",
+        "CategoryIds": [
+            "3649",
+            "3651",
+            "3654",
+            "3655",
+            "3658"
+        ],
+        "CategoryNames": [
+            "Academic/Honor Societies",
+            "Cultural/Ethnic",
+            "Graduate/Professional",
+            "Health & Wellness",
+            "Service/Service Learning"
         ],
         "Status": "Active",
         "Visibility": "Public"
@@ -6574,7 +6605,7 @@
         "ShortName": "CFC",
         "WebsiteKey": "campusfarmclub",
         "ProfilePicture": "461bf4c0-85e8-4b0f-a685-72274814ddd833371d67-2a1f-445b-a97a-5a6f869c412f.png",
-        "Description": "<p><strong id=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_internal-source-marker_0.9097437735181302\"><strong id=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_internal-source-marker_0.9097437735181302\">The members of the Campus Farm Club established this group to empower students to create a healthy future through sustainable food education, training, and outreach.</strong></strong></p>\r\n<p><strong id=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_internal-source-marker_0.9097437735181302\">CFC is established for the purpose of creating an on campus farm and providing constructive student input at the University of Michigan, which will provide students with opportunities to develop knowledge and skills related to farming and agriculture, food preparation and preservation, personal and environmental health, community outreach, and business and economic development. <br /></strong></p>",
+        "Description": "<p><strong id=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_internal-source-marker_0.9097437735181302\"><strong id=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_internal-source-marker_0.9097437735181302\">The members of the Campus Farm Club established this group to empower students to create a healthy future through sustainable food education, training, and outreach.</strong></strong></p>\r\n<p><strong id=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_internal-source-marker_0.9097437735181302\">CFC is established for the purpose of creating an on campus farm and providing constructive student input at the University of Michigan, which will provide students with opportunities to develop knowledge and skills related to farming and agriculture, food preparation and preservation, personal and environmental health, community outreach, and business and economic development. <br /></strong></p>",
         "Summary": "CFC supports the Campus Farm, offering opportunities for students to develop practical skills in farming and agriculture. We also provide opportunities for socializing and networking in the sustainable food space. Email cfceboard@umich.edu to learn more!",
         "CategoryIds": [
             "3655",
@@ -6665,31 +6696,6 @@
         ],
         "CategoryNames": [
             "Science/Technology/Engineering",
-            "Business & Entrepreneurship"
-        ],
-        "Status": "Active",
-        "Visibility": "Public"
-    },
-    {
-        "@search.score": 1.0,
-        "Id": "138141",
-        "InstitutionId": 66,
-        "ParentOrganizationId": 62529,
-        "BranchId": 62529,
-        "Name": "Capital Consulting Group",
-        "ShortName": "CCG",
-        "WebsiteKey": "ccg",
-        "ProfilePicture": "d19a5d83-16f7-445d-84ce-db29fc5e76ba5c7a3fb2-3d71-4238-8501-1913121301ef.png",
-        "Description": "<p><span style=\"font-weight: 400;\">In CCG, a student-run pro-bono consulting club in Ross, members help solve business challenges that student clubs, non-profits, startups, and the University face. The club provides a unique opportunity to give back to the community by providing consulting services to clients who closely impact student life at the University of Michigan.</span></p>\r\n<p><span style=\"font-weight: 400;\">CCG takes pride in its start-up like culture and action-based learning approach that allows members to collaborate and find creative solutions to pressing business problems that student-affiliated organizations face. On top of that, its mentorship programs, professional development workshops, and social events facilitate a deeply meaningful experience that translates into personal and professional success. CCG presents an exciting opportunity for business-minded students who have a strong ambition to improve their campus community. </span></p>",
-        "Summary": "Provide pro-bono consulting services to on-campus and local organizations. The scope of the consulting services may include but is not limited to strategy, finance, rebranding, marketing, and organization restructuring.",
-        "CategoryIds": [
-            "3654",
-            "3658",
-            "16550"
-        ],
-        "CategoryNames": [
-            "Graduate/Professional",
-            "Service/Service Learning",
             "Business & Entrepreneurship"
         ],
         "Status": "Active",
@@ -6811,6 +6817,27 @@
             "Cost: $0/Semester",
             "Time Commitment: 1-2 hours/week",
             "Joining Process: Automatic Acceptance"
+        ],
+        "Status": "Active",
+        "Visibility": "Public"
+    },
+    {
+        "@search.score": 1.0,
+        "Id": "312550",
+        "InstitutionId": 66,
+        "ParentOrganizationId": 62529,
+        "BranchId": 62529,
+        "Name": "Carillon Guild at the University of Michigan",
+        "ShortName": "Guild",
+        "WebsiteKey": "carillonguild",
+        "ProfilePicture": "b2e117e4-94f6-45ae-80cf-f8fe443bb0f5c7eaa05b-aac1-4738-b4c1-50a6bd09595d.png",
+        "Description": "\r\n<div class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_page\" title=\"Page 3\">\r\n<div class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_layoutArea\">\r\n<div class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_column\">\r\n<p>The Carillon Guild at the University of Michigan is available to play the bells in Burton or Lurie Towers for events and private tours!</p>\r\n<p><span style=\"font-weight:400\">ABOUT US</span></p>\r\n<p><span style=\"font-weight:400\">We are a voluntary student organization (VSO) for carillon (bell-playing) enthusiasts in Ann Arbor, which means our membership consists of students, local community members, and alumni of the studio/Guild. We meet and play for\r\n each other weekly, learn our own music in addition to what\u2019s assigned in academic lessons, host tours of our bell towers, and travel both regionally and internationally to visit new carillons.&nbsp;</span></p>\r\n<p>MISSION AND PURPOSE</p>\r\n<p>Our mission is to generate awareness of the carillon, create and embed carillon culture into mainstream University of Michigan life, and empower students to take ownership of the carillon spaces, both physical and sonic.</p>\r\n<p>The Guild is established for the expressed purpose of engaging our community at the University of Michigan (U-M) and beyond with the carillons at U-M and to provide a space where individuals both in the academic studio and outside of it can be substantively\r\n involved with the instrument. We strive to cultivate musical technique and expression on the instrument with the intention of performing monthly concerts on the Ann Arbor campus and at regional, national, and international bell towers.</p>\r\n<p><span style=\"font-weight:400\">ABOUT THE CARILLON</span></p>\r\n<p>A carillon consists of a series of at least 23 tuned bells, played from a keyboard that allows expressiveness through variation in touch. We have two on campus, in Burton Memorial Tower (Central Campus) and in Lurie Tower (North Campus). Both instruments\r\n are played each weekday by professors, students, and community members.</p>\r\n</div>\r\n</div>\r\n</div>\r\n",
+        "Summary": "The Carillon Guild at the University of Michigan is a student-run organization that connects members of the carillon community at the University of Michigan.",
+        "CategoryIds": [
+            "3650"
+        ],
+        "CategoryNames": [
+            "Creative & Performing Arts"
         ],
         "Status": "Active",
         "Visibility": "Public"
@@ -7189,7 +7216,7 @@
         "ShortName": "",
         "WebsiteKey": "chemecube",
         "ProfilePicture": "0357e4e7-d0d8-42b0-9ae2-6866ebfff40abb8e27da-ebff-4a0a-9fe1-0a830682babe.png",
-        "Description": "\r\n<p>ChemE Cube&nbsp;at the University of Michigan is an engineering and business focused project team that participates in the AIChE ChemE Cube Competition.&nbsp;<span style=\"font-weight:400\">Students will collaborate to create a 1 cubic foot chemical plant and promote\r\n our technology through a 1-minute ad, poster, 20-minute &quot;shark tank&quot; style pitch to a panel of mock investors. The team values creativity, collaboration, and innovation, and encourages students from all majors to join and contribute.</span></p>\r\n<p><a href=\"https://sites.google.com/umich.edu/chemecube-at-umich?usp=sharing\">Visit our website for more information!</a></p>\r\n",
+        "Description": "<p>ChemE Cube&nbsp;at the University of Michigan is an engineering and business focused project team that participates in the AIChE ChemE Cube Competition.&nbsp;<span style=\"font-weight: 400;\">Students will collaborate to create a 1 cubic foot chemical plant and promote our technology through a 1-minute ad, poster, 20-minute \"shark tank\" style pitch to a panel of mock investors. The team values creativity, collaboration, and innovation, and encourages students from all majors to join and contribute.</span></p>\r\n<p><a href=\"https://sites.google.com/umich.edu/chemecube-at-umich?usp=sharing\">Visit our website for more information!</a></p>",
         "Summary": "ChemE Cube is an engineering and business focused project team that participates in the AIChE ChemE Cube Competition. We create a 1 cubic foot chemical plant and present our design in a &quot;shark tank&quot; style pitch to a panel of mock investors.",
         "CategoryIds": [
             "3652",
@@ -8069,7 +8096,7 @@
         "ShortName": "",
         "WebsiteKey": "cognicure",
         "ProfilePicture": "df2773e4-e5a1-4415-bff1-ff9b190e79ade62c8ef9-bb6c-4dc2-a4e3-4e0fd0fe20c7.png",
-        "Description": "\r\n<p><span style=\"font-weight:400\">Our mission through CogniCure is to spread awareness and raise money for the American Cancer Society, specifically for brain cancer research. We host one annual fundraiser to help make an impact and spread awareness across our\r\n campus and other service activities during meetings. We also want to create a welcoming environment for students studying STEM and students interested in STEM. We want to help connect people and make long-lasting friendships while supporting an amazing cause.\r\n We welcome anyone willing to help!</span></p>\r\n",
+        "Description": "<p><span style=\"font-weight: 400;\">Our mission through CogniCure is to spread awareness and raise money for the American Cancer Society, specifically for brain cancer research. We host one annual fundraiser to help make an impact and spread awareness across our campus and other service activities during meetings. We also want to create a welcoming environment for students studying STEM and students interested in STEM. We want to help connect people and make long-lasting friendships while supporting an amazing cause. We welcome anyone willing to help!</span></p>",
         "Summary": "Our mission through CogniCure is to spread awareness and raise money for the American Cancer Society, specifically for brain cancer research. We host one annual fundraiser to help make an impact and spread awareness across our campus.\r\n",
         "CategoryIds": [
             "3648",
@@ -8282,33 +8309,6 @@
             "Activism",
             "Governance",
             "Service/Service Learning"
-        ],
-        "Status": "Active",
-        "Visibility": "Public"
-    },
-    {
-        "@search.score": 1.0,
-        "Id": "164896",
-        "InstitutionId": 66,
-        "ParentOrganizationId": 62529,
-        "BranchId": 62529,
-        "Name": "Collegians for Christ",
-        "ShortName": "CFC",
-        "WebsiteKey": "cfc",
-        "ProfilePicture": "47e970ce-4229-4a1a-8a63-8eab54420d5187f24228-90c1-4876-816b-e17aa88c10b5.jpg",
-        "Description": "<p>Every week, we gather around the Bible to search out answers. We find what to believe about God, what He desires of us and for us, why we each exist, and many more answers to deep and sometimes troubling questions. We are always <span style=\"text-decoration: underline;\">focused on the freeing truth found only in the whole Word of God</span> and on living for His glory. Join us this week for a meal, Christian fellowship, and a Bible study. Go to <a title=\"Website\" href=\"http://www.cfcannarbor.com\" target=\"_blank\" rel=\"noopener\"> cfcannarbor.com</a> for more information.</p>",
-        "Summary": "CFC is a community of university students that exists to find practical answers from the Bible about life on campus.",
-        "CategoryIds": [
-            "3657",
-            "18506",
-            "18511",
-            "18521"
-        ],
-        "CategoryNames": [
-            "Religious/Spiritual",
-            "Cost: $0/Semester",
-            "Time Commitment: 1-2 hours/week",
-            "Joining Process: Meeting/Social Attendance"
         ],
         "Status": "Active",
         "Visibility": "Public"
@@ -8594,7 +8594,7 @@
         "ShortName": "CONSIDER",
         "WebsiteKey": "consider",
         "ProfilePicture": "b16b1407-87d5-447c-bac9-38c8f16774ca12be098a-5db5-400d-ad7a-cb44d93efd85.png",
-        "Description": "\r\n<p>CONSIDER is a student-run point/counterpoint publication that features non-partisan civil discourse about a plethora of topics concerning the UMich student population. CONSIDER prints one issue per semester, weekly blog posts, and a website with continuously\r\n updated content. Check us out at www.considermagazine.org or @considerumich on Instagram!</p>\r\n",
+        "Description": "<p>CONSIDER is a student-run point/counterpoint publication that features non-partisan civil discourse about a plethora of topics concerning the UMich student population. CONSIDER prints one issue per semester, weekly blog posts, and a website with continuously updated content. Check us out at www.considermag.com or @considerumich on Instagram!</p>",
         "Summary": "CONSIDER is a student-run point/counterpoint publication that features non-partisan civil discourse about a plethora of topics. CONSIDER prints one issue per semester and has a website with continuously updated content.",
         "CategoryIds": [
             "3648",
@@ -8756,6 +8756,29 @@
     },
     {
         "@search.score": 1.0,
+        "Id": "211786",
+        "InstitutionId": 66,
+        "ParentOrganizationId": 62529,
+        "BranchId": 62529,
+        "Name": "Cosmetic Dentistry Society",
+        "ShortName": "CDS",
+        "WebsiteKey": "cosmeticdentistrysociety",
+        "ProfilePicture": "38fb5412-6930-4eb9-9699-e4aa3342aa3e0bbb8ce9-67be-43b5-b245-0e7474e0fae5.png",
+        "Description": "<p>The Cosmetic Dentistry Society is an organization established to foster continued learning for dental students in the areas of cosmetic dentistry, leadership, and philanthropy.</p>",
+        "Summary": "The Cosmetic Dentistry Society is an organization established foster continued learning for dental students in the areas of cosmetic dentistry, leadership, and philanthropy.\r\n",
+        "CategoryIds": [
+            "3649",
+            "3654"
+        ],
+        "CategoryNames": [
+            "Academic/Honor Societies",
+            "Graduate/Professional"
+        ],
+        "Status": "Active",
+        "Visibility": "Public"
+    },
+    {
+        "@search.score": 1.0,
         "Id": "120600",
         "InstitutionId": 66,
         "ParentOrganizationId": 62529,
@@ -8880,8 +8903,8 @@
         "Name": "Crafts for Conservation: VIPs Club",
         "ShortName": "VIPs Club",
         "WebsiteKey": "vipsclub",
-        "ProfilePicture": "7dbbd89b-bd95-4ad6-a28b-26a9e66db4204df21f14-a8f7-4501-bb68-e3ee58373947.jpeg",
-        "Description": "<p><span style=\"text-decoration: underline;\"><strong><em>WEEKLY CRAFTING MEETINGS:</em></strong></span><strong><em>&nbsp;</em></strong><strong>SUNDAYS 2-4p &amp; THURSDAYS 4:30-5:30p</strong></p>\r\n<p><em>Sunday Meetings: Room 4, first floor Michigan League</em></p>\r\n<p><em>Monday Meetings: Design Lab 1,&nbsp;Duderstadt Center (North Campus)</em></p>\r\n<p>&nbsp;</p>\r\n<p>Did you know the fast fashion industry is expected to use 35% more land by 2030? That's 115 MILLION hectares of space that will be taken away from wild animals' habitat, all so that we can have our giant Shein hauls of cheap clothes that we wear once or twice and send to the landfill within a year. Fast fashion is one of the biggest threats to the planet&rsquo;s biodiversity, but a threat that we do have a fighting chance at stopping.</p>\r\n<p>VIPs (Very Important Primates) is a new club that meets once a week to crochet, knit, bead, sew, embroider, etc., (basically whatever your talent is or whatever talent you wish to learn) so we can create garments that have an eco-friendly life cycle to combat fast fashion. As opposed to cheap fabrics made of plastics that take thousands of years to decompose and rely on abysmal labor standards to produce, we source sustainable materials and since we start from scratch, we get to design all our garments and accessories <br /><br />At VIPs Club, we sell these clothes, stuffed toys, bags, hats, etc. through VIPs Fund, a nonprofit created by university students for this exact purpose. 100% of funds raised through making these sales go directly towards wildlife conservation projects that we develop ourselves.</p>\r\n<p>Membership is open to anyone who is interested in wildlife conservation, fiber art, fashion design, sewing, jewelry, nonprofit work, website building, marketing, advocacy, or any other skill you think would further the mission of Crochet for Conservation and VIPs Fund. Check out the Sustainability and About Us pages on the VIPs Fund website for more information.</p>\r\n<p>www.vipsfund.org</p>",
+        "ProfilePicture": "ed37407d-8de9-4461-9981-238eea56d384b06e431f-2575-45d9-adc9-682b9e5e505b.png",
+        "Description": "<p><span style=\"text-decoration: underline;\"><strong><em>WEEKLY CRAFTING MEETINGS:</em></strong></span><strong><em>&nbsp;</em></strong><strong>SUNDAYS 2-4p &amp; THURSDAYS 6-7p</strong></p>\r\n<p><em>Sunday Meetings: Room 4, first floor Michigan League</em></p>\r\n<p><em>Thursday Meetings: Design Lab 1,&nbsp;Duderstadt Center (North Campus)</em></p>\r\n<p>&nbsp;</p>\r\n<p>Did you know the fast fashion industry is expected to use 35% more land by 2030? That's 115 MILLION hectares of space that will be taken away from wild animals' habitat, all so that we can have our giant Shein hauls of cheap clothes that we wear once or twice and send to the landfill within a year. Fast fashion is one of the biggest threats to the planet&rsquo;s biodiversity, but a threat that we do have a fighting chance at stopping.</p>\r\n<p>&nbsp;</p>\r\n<p>VIPs (Very Important Primates) is a <strong>new</strong> <strong>volunteering organization&nbsp;</strong>that meets once a week to <strong>provide FREE MATERIALS</strong>&nbsp;to crochet, knit, bead, sew, embroider, etc. so we can create garments that have an <strong>eco-friendly life cycle to combat fast fashion.</strong> As opposed to cheap fabrics made of plastics that take thousands of years to decompose and rely on abysmal labor standards to produce, we source sustainable materials and since we start from scratch, we get to design all our garments and accessories <br /><br />At VIPs Club, we sell these clothes, stuffed toys, bags, hats, etc. through VIPs Fund, a nonprofit created by university students for this exact purpose. <strong>100% of funds raised</strong> through making these sales go directly towards wildlife <strong>conservation projects</strong> that we develop ourselves.</p>\r\n<p><strong>Membership is open to anyone</strong> who is interested in wildlife conservation, fiber art, fashion design, sewing, jewelry, nonprofit work, website building, marketing, advocacy, or any other skill you think would further the mission of Crochet for Conservation and VIPs Fund. Check out the Sustainability and About Us pages on the VIPs Fund website for more information.</p>\r\n<p>www.vipsfund.org</p>",
         "Summary": "one-of-a-kind pieces for a one-of-a-kind planet\r\nsustainable fashion (crochet, knit, jewelry, etc) and wildlife conservation",
         "CategoryIds": [
             "3648",
@@ -9698,31 +9721,6 @@
             "Joining Process: Academic Standing",
             "Joining Process: Rush Process",
             "Cost: $501+/Semester"
-        ],
-        "Status": "Active",
-        "Visibility": "Public"
-    },
-    {
-        "@search.score": 1.0,
-        "Id": "72487",
-        "InstitutionId": 66,
-        "ParentOrganizationId": 62529,
-        "BranchId": 62529,
-        "Name": "Delta Gamma Phi",
-        "ShortName": "DGPhi",
-        "WebsiteKey": "dgphi",
-        "ProfilePicture": "1ac2a634-c558-48fd-8743-690ba10d99ec89feb9da-2cd2-480b-aa59-95e61e5466a6.jpg",
-        "Description": "<div class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_section\">\r\n<p class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_orgmission\">Delta Gamma Phi is the only pre-law sorority on campus (and the first pre-law sorority in the United States). We strive to advance future careers in law by promoting academic excellence, increased knowledge of the law, unique opportunities for leadership and service, a network of devoted sisters, friendship, unity, and unlimited guidance and support. Members include women and non-man-identifying individuals who will be applying to law school, are interested in law, or are simply considering law school as an option. We represent a future of law that is diverse, honorable, and one in which women have a presence and a voice.</p>\r\n<p class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_orgmission\">&nbsp;</p>\r\n<p class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_orgmission\">Feel free to visit and follow our Instagram @deltagammaphi_umich for rush information and reach out if you have any questions!</p>\r\n</div>",
-        "Summary": "Delta Gamma Phi is the only pre-law sorority on campus and our mission is to create a dedicated network of women who are applying to law school, interested in law, or considering law school as an option. We recruit in the Fall and Winter semesters.",
-        "CategoryIds": [
-            "3649",
-            "3654",
-            "3658"
-        ],
-        "CategoryNames": [
-            "Academic/Honor Societies",
-            "Graduate/Professional",
-            "Service/Service Learning"
         ],
         "Status": "Active",
         "Visibility": "Public"
@@ -10740,27 +10738,6 @@
     },
     {
         "@search.score": 1.0,
-        "Id": "349656",
-        "InstitutionId": 66,
-        "ParentOrganizationId": 62529,
-        "BranchId": 62529,
-        "Name": "Economics Investment Committee",
-        "ShortName": "EIC",
-        "WebsiteKey": "eic",
-        "ProfilePicture": "7a937d52-d762-4ce1-af81-5d21b65010f9d2e77750-8a5c-49b0-9fd4-93ed7acf1a0e.png",
-        "Description": "<p>Through meetings and events, our mission is to help each member to better understand and be able to explain the ever-changing financial world and economic policy. We hope to prepare students interested in Economics for potential careers in the field, such as finance, consulting, and public policy roles through education and professional development. Join our interest form here:&nbsp;https://forms.gle/cJc2WZg1p5dMoJax8</p>\r\n<p>&nbsp;</p>",
-        "Summary": "EIC is established for the expressed purpose of developing each member's understanding of markets, investing, portfolio diversification, financials &amp; metrics, and governmental economic policy.",
-        "CategoryIds": [
-            "16550"
-        ],
-        "CategoryNames": [
-            "Business & Entrepreneurship"
-        ],
-        "Status": "Active",
-        "Visibility": "Public"
-    },
-    {
-        "@search.score": 1.0,
         "Id": "373325",
         "InstitutionId": 66,
         "ParentOrganizationId": 62529,
@@ -10913,6 +10890,39 @@
             "Cultural/Ethnic",
             "Health & Wellness",
             "Sport Clubs & Recreation"
+        ],
+        "Status": "Active",
+        "Visibility": "Public"
+    },
+    {
+        "@search.score": 1.0,
+        "Id": "177671",
+        "InstitutionId": 66,
+        "ParentOrganizationId": 62529,
+        "BranchId": 62529,
+        "Name": "Elementary Engineering Partnerships",
+        "ShortName": "EEP",
+        "WebsiteKey": "eep",
+        "ProfilePicture": "8ba65282-a89e-4b91-bbd9-6bb38fd3dea852003097-fd3f-4b4a-bc28-f9f23bdfd309.jpg",
+        "Description": "<p><span class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_wsite-text x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_wsite-headline-paragraph\">We aim to provide elementary students with&nbsp;exposure to engineering careers through student-led, human-centered, interactive design experiences and sustained mentorship with undergraduate engineering students. Our mission is&nbsp;accomplished by adhering to our values of learning and education, relationships, creativity, and innovation. Our program can be easily incorporated into classrooms by supplementing the Next Generation Science Standards for engineering design and Essential Elements of Project Based Learning.</span></p>",
+        "Summary": "We aim to provide elementary students with exposure to engineering disciplines through student-led, human-centered, interactive design experiences and sustained mentorship with undergraduate engineering students.",
+        "CategoryIds": [
+            "3652",
+            "3658",
+            "18506",
+            "18511",
+            "18517",
+            "18520",
+            "18521"
+        ],
+        "CategoryNames": [
+            "Science/Technology/Engineering",
+            "Service/Service Learning",
+            "Cost: $0/Semester",
+            "Time Commitment: 1-2 hours/week",
+            "Joining Process: Application",
+            "Joining Process: Interview",
+            "Joining Process: Meeting/Social Attendance"
         ],
         "Status": "Active",
         "Visibility": "Public"
@@ -12016,39 +12026,6 @@
     },
     {
         "@search.score": 1.0,
-        "Id": "398601",
-        "InstitutionId": 66,
-        "ParentOrganizationId": 62529,
-        "BranchId": 62529,
-        "Name": "Facts On the Ground at Michigan",
-        "ShortName": "FOG",
-        "WebsiteKey": "fog",
-        "ProfilePicture": "f49f52ad-29a0-4e5c-82de-9f58dda09539ffa45287-703a-49c6-8b59-ed964a2f30c6.png",
-        "Description": "<p>A group of student leaders dedicated to \"clearing the fog\" of disinformation on campus surrounding the Israel-Hamas War and the Israel-Palestine conflict through educational initiatives that foster diverse, productive, and fact-based dialogue.</p>",
-        "Summary": "A group of student leaders dedicated to \"clearing the fog\" of disinformation on campus surrounding the Israel-Hamas War and the Israel-Palestine conflict through educational initiatives that foster diverse, productive, and fact-based dialogue.",
-        "CategoryIds": [
-            "3648",
-            "18506",
-            "18512",
-            "18517",
-            "18519",
-            "18520",
-            "18521"
-        ],
-        "CategoryNames": [
-            "Activism",
-            "Cost: $0/Semester",
-            "Time Commitment: 3-5 hours/week",
-            "Joining Process: Application",
-            "Joining Process: Automatic Acceptance",
-            "Joining Process: Interview",
-            "Joining Process: Meeting/Social Attendance"
-        ],
-        "Status": "Active",
-        "Visibility": "Public"
-    },
-    {
-        "@search.score": 1.0,
         "Id": "404370",
         "InstitutionId": 66,
         "ParentOrganizationId": 62529,
@@ -12511,6 +12488,33 @@
         "CategoryNames": [
             "Academic/Honor Societies",
             "Graduate/Professional"
+        ],
+        "Status": "Active",
+        "Visibility": "Public"
+    },
+    {
+        "@search.score": 1.0,
+        "Id": "70615",
+        "InstitutionId": 66,
+        "ParentOrganizationId": 62529,
+        "BranchId": 62529,
+        "Name": "First-Generation College Students @ Michigan",
+        "ShortName": "FGCS/FirstGens",
+        "WebsiteKey": "firstgens",
+        "ProfilePicture": "0dec30b0-57b1-4681-8399-7bf6a13553cc8f2b87ea-fd67-4273-9044-bcfb8d28f284.JPG",
+        "Description": "<p>In the Fall of 2007, with great assistance from UM Administration and Residence Education, a small team of undergraduate and graduate students created a program that hopes to eventually offer a variety of resources, advising, and outreach to current and future first generation university students and their parents. First-Generation College Students @ Michigan is a newly formed student organization dedicated to the goals of recognizing, raising awareness of, and resolving the unique needs of first generation college students at the University of Michigan. We are proud to announce that First-Generation College Students @ Michigan is the first student-lead organization of its type in the nation.</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>",
+        "Summary": "First-Generation College Students @ Michigan is a student organization dedicated to recognizing, raising awareness of, and resolving the needs of undergraduate first-generation college students on the University of Michigan's campus.",
+        "CategoryIds": [
+            "3648",
+            "3651",
+            "3655",
+            "3658"
+        ],
+        "CategoryNames": [
+            "Activism",
+            "Cultural/Ethnic",
+            "Health & Wellness",
+            "Service/Service Learning"
         ],
         "Status": "Active",
         "Visibility": "Public"
@@ -13159,7 +13163,7 @@
         "ShortName": "Gadites",
         "WebsiteKey": "gadites",
         "ProfilePicture": "1f675cda-663f-482e-8b3e-278f96c60b7069d8a940-038f-4c41-86aa-c580dda5a6ab.png",
-        "Description": "\r\n<p>Gadites is an initiative established to be a blessing to all fellowships on campus. It exists to raise an army of young believers committed to loving God wholeheartedly, growing in their faith, and living as spiritual soldiers on campus. Gen 30:11</p>\r\n",
+        "Description": "<p>Gadites is an initiative established to be a blessing to all fellowships on campus. It exists to raise an army of young believers committed to loving God wholeheartedly, growing in their faith, and living as spiritual soldiers on campus. Gen 30:11</p>",
         "Summary": "Gadites is an initiative established to be a blessing to all fellowships on campus. It exists to raise an army of young believers committed to loving God wholeheartedly, growing in their faith, and living as spiritual soldiers on campus. Gen 30:11",
         "CategoryIds": [
             "3657"
@@ -13253,31 +13257,6 @@
             "Time Commitment: 3-5 hours/week",
             "Joining Process: Rush Process",
             "Cost: $501+/Semester"
-        ],
-        "Status": "Active",
-        "Visibility": "Public"
-    },
-    {
-        "@search.score": 1.0,
-        "Id": "79981",
-        "InstitutionId": 66,
-        "ParentOrganizationId": 62529,
-        "BranchId": 62529,
-        "Name": "Gamma Sigma Alpha",
-        "ShortName": "GSA",
-        "WebsiteKey": "gamma_sigma_alpha",
-        "ProfilePicture": "ae4ff931-aa9d-499c-9253-b918a994d1367ec07904-dfbd-428c-825f-4bf21db93c08.jpg",
-        "Description": "<p>Gamma Sigma Alpha National Academic Greek Honor Society is the premier organization committed to the academic success of our members. Students are eligible for membership based on grade point average and membership in a Greek fraternity or sorority.</p>",
-        "Summary": "Gamma Sigma Alpha National Academic Greek Honor Society is the premier organization committed to the academic success of our members.\r\n",
-        "CategoryIds": [
-            "3649",
-            "3658",
-            "3659"
-        ],
-        "CategoryNames": [
-            "Academic/Honor Societies",
-            "Service/Service Learning",
-            "Social Fraternity/Sorority"
         ],
         "Status": "Active",
         "Visibility": "Public"
@@ -14450,35 +14429,6 @@
     },
     {
         "@search.score": 1.0,
-        "Id": "375212",
-        "InstitutionId": 66,
-        "ParentOrganizationId": 62529,
-        "BranchId": 62529,
-        "Name": "Great UofM Baking Club",
-        "ShortName": "GMBC",
-        "WebsiteKey": "gmbc",
-        "ProfilePicture": "96c52fb4-b181-485b-a2fb-f8f84a7290fed5a19e34-b37a-42c5-bbde-ea32d57ede50.png",
-        "Description": "<p><strong>We're a haven for baking enthusiasts at the University of Michigan!</strong></p>\r\n<p><strong>Our mission is to: </strong><br />&bull; Empower budding bakers to hone their craft. <br />&bull; Offer a therapeutic baking escape to bust student stress. <br />&bull; Create a warm community where bakers connect and collaborate. Whether you're a seasoned baker or just starting your sweet journey, you're in the right place!<br /><br /><strong>Our Activities&nbsp;</strong><br />&bull; Baking Lessons: Dive deeper into the world of baking through hands-on experience making classics like macarons or bread. <br />&bull; Baking Competitions: Teams whip up delights themed to the competition. With multiple teams, it's a race to impress the judges. <br />&bull; Baking Potlucks: Imagine competitions, but more relaxed. Everyone brings something to the table, quite literally, making it a treat-filled gathering. <br />&bull; Baking Fundraisers: Showcase your baking skills and contribute to a cause. Whether it's for the club or charity, our campus bake sales are always a hit! <br />&bull; Social Hangouts: From karaoke and bowling to painting the rock or exploring Ann Arbor's best bakeries, we make sure fun is always on the menu. <br /><br /><strong>Join us, and let's create, collaborate, and celebrate the joy of baking together!</strong></p>\r\n<p>Check out our <a href=\"https://linktr.ee/greatuofmbakingclub\">social media and more</a>.</p>\r\n<p>Join the GroupMe <a href=\"https://groupme.com/join_group/98829520/wV9vqA1C\">here</a>.</p>\r\n<p>And use the <a href=\"https://docs.google.com/document/d/1mJPBixGULWLorx8T2MLo4SNX7ezWGgtUI-Lyi0AHD7U/edit?usp=drivesdk\">8-digit code</a> (accessible only with UMich email) to join the GroupMe.</p>",
-        "Summary": "The Great UofM Baking Club is an open, free community dedicated to making baking accessible and the perfect place for students of all baking levels to relieve stress and make friends!",
-        "CategoryIds": [
-            "3652",
-            "3655",
-            "3658",
-            "4212",
-            "16550"
-        ],
-        "CategoryNames": [
-            "Science/Technology/Engineering",
-            "Health & Wellness",
-            "Service/Service Learning",
-            "Environmental",
-            "Business & Entrepreneurship"
-        ],
-        "Status": "Active",
-        "Visibility": "Public"
-    },
-    {
-        "@search.score": 1.0,
         "Id": "73798",
         "InstitutionId": 66,
         "ParentOrganizationId": 62529,
@@ -14940,39 +14890,6 @@
             "Cost: $0/Semester",
             "Time Commitment: 1-2 hours/week",
             "Joining Process: Application"
-        ],
-        "Status": "Active",
-        "Visibility": "Public"
-    },
-    {
-        "@search.score": 1.0,
-        "Id": "68048",
-        "InstitutionId": 66,
-        "ParentOrganizationId": 62529,
-        "BranchId": 62529,
-        "Name": "Heartbeat: Philanthropic A Cappella",
-        "ShortName": "Heartbeat",
-        "WebsiteKey": "heartbeat",
-        "ProfilePicture": "832a808f-cde7-4ffe-84bb-07c6c333a2885bfdd614-4e05-4515-bbbb-f6335265413f.png",
-        "Description": "\r\n<p><strong>Heartbeat is the&nbsp;only philanthropic a cappella group at the University of Michigan.</strong></p>\r\n<p>Each year, Heartbeat raises money for a charity chosen by its members. We perform on and off-campus at private and public events for donations. To build relationships with our community, we regularly perform at the U of M hospital and make a&nbsp;concerted effort\r\n to work with&nbsp;other charitable student organizations on campus, such as Dance Marathon, DoRAK, and DP Day. We also partner with local businesses such as Poke Poke and host semesterly concerts for charitable contributions. Check out our Instagram @heartbeat_acappella\r\n for event details,&nbsp;membership bios, audition information, and more!</p>\r\n",
-        "Summary": "As the University of Michigan's only philanthropic a cappella group, Heartbeat strives to give back through performances at charity-based events and for donations to charitable organizations.",
-        "CategoryIds": [
-            "3648",
-            "3650",
-            "3655",
-            "3658",
-            "18513",
-            "18518",
-            "18523"
-        ],
-        "CategoryNames": [
-            "Activism",
-            "Creative & Performing Arts",
-            "Health & Wellness",
-            "Service/Service Learning",
-            "Time Commitment: 6-10 hours/week",
-            "Joining Process: Audition",
-            "Cost: $21-$100/Semester"
         ],
         "Status": "Active",
         "Visibility": "Public"
@@ -15766,27 +15683,23 @@
     },
     {
         "@search.score": 1.0,
-        "Id": "72738",
+        "Id": "422024",
         "InstitutionId": 66,
         "ParentOrganizationId": 62529,
         "BranchId": 62529,
-        "Name": "Impact Dance/UAC",
-        "ShortName": "",
-        "WebsiteKey": "impactdance",
-        "ProfilePicture": "e7fa3266-3b54-4a23-a61a-96a6af88797df6d027f4-b093-4aa8-84ce-f692d897fc93.jpg",
-        "Description": "<p>Impact Dance is a dance company open primarily to non-dance majors. The company's members choreograph and perform pieces of various styles, particularly contemporary and jazz, which are featured in two of our shows and numerous guest performances.</p>\r\n<p>&nbsp;</p>\r\n<p>Website:&nbsp;http://impactdanceumich.wix.com/impactdance</p>",
-        "Summary": "Impact Dance is a dance company open primarily to non-dance majors. The company's members choreograph and perform pieces of a variety of styles, especially contemporary and jazz, that are performed in two of our own shows and in many guest performances.",
+        "Name": "Immigrant Health and Advocacy at the University of Michigan",
+        "ShortName": "IHA",
+        "WebsiteKey": "iha",
+        "ProfilePicture": "7cc272a3-6f85-4169-9a3f-d98e877f0654c013cee2-5dce-4f5c-9132-55660d034ea7.jpg",
+        "Description": null,
+        "Summary": "Immigrant Health and Advocacy stives to promote the health, well-being, and empowerment of immigrant and mixed status communities through education, advocacy, research, community partnerships, and student-led service.",
         "CategoryIds": [
-            "3650",
-            "18506",
-            "18513",
-            "18518"
+            "3655",
+            "3658"
         ],
         "CategoryNames": [
-            "Creative & Performing Arts",
-            "Cost: $0/Semester",
-            "Time Commitment: 6-10 hours/week",
-            "Joining Process: Audition"
+            "Health & Wellness",
+            "Service/Service Learning"
         ],
         "Status": "Active",
         "Visibility": "Public"
@@ -15986,6 +15899,29 @@
             "Cost: $0/Semester",
             "Time Commitment: 1-2 hours/week",
             "Joining Process: Automatic Acceptance"
+        ],
+        "Status": "Active",
+        "Visibility": "Public"
+    },
+    {
+        "@search.score": 1.0,
+        "Id": "417338",
+        "InstitutionId": 66,
+        "ParentOrganizationId": 62529,
+        "BranchId": 62529,
+        "Name": "Industrial Design society of America at umich",
+        "ShortName": "IDSA at umich",
+        "WebsiteKey": "idsa",
+        "ProfilePicture": "725b2fd6-6e74-41a5-84ee-a6286445aba72d5c587d-1910-487a-88ad-d4fb4d060fdb.png",
+        "Description": "<p><strong>&nbsp;</strong><span style=\"font-weight: 400;\">IDSA at UMICH strives to provide a collaborative space for students to develop innovative products, form project teams for design competitions, and deepen their understanding of design philosophy. We aim to foster a strong community where members can build valuable relationships and network for future opportunities in the field of industrial design.</span></p>",
+        "Summary": "Provide a collaborative space for students to develop products, form teams for design competitions, and deepen their understanding of design philosophy.",
+        "CategoryIds": [
+            "3650",
+            "3652"
+        ],
+        "CategoryNames": [
+            "Creative & Performing Arts",
+            "Science/Technology/Engineering"
         ],
         "Status": "Active",
         "Visibility": "Public"
@@ -16235,41 +16171,6 @@
     },
     {
         "@search.score": 1.0,
-        "Id": "74396",
-        "InstitutionId": 66,
-        "ParentOrganizationId": 62529,
-        "BranchId": 62529,
-        "Name": "Inter-Cooperative Council",
-        "ShortName": "ICC",
-        "WebsiteKey": "icc",
-        "ProfilePicture": "3eee980f-56c6-4c1d-91ac-21b7a11541c2ad086eb1-fc1f-43a5-8ba5-b66d2aec2cd7.jpg",
-        "Description": "<p style=\"color: #000000; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;\">Cooperative movements, including the ICC, have a long history. Here (http://www.icc.coop/story/history/) you can find more information about the Inter-Cooperative Council in Ann Arbor as well as links to other cooperatives. We suggest that you use the official ICC website (http://www.icc.coop/) to find information beyond the brief description below.&nbsp;</p>\r\n<p style=\"color: #000000; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;\">We are the ICC, one of the largest student housing cooperatives in the country. We were established in 1932 by students and since that time we have successfully provided affordable, quality housing to thousands of students from around the world.</p>\r\n<p style=\"color: #000000; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;\">Today approximately 550 members belong to our co-op and they collectively own and manage 21 properties. The properties are comprised of 16 houses, of these properties are the houses that we live in and the the Moses Coady/Paulo Friere Education Center for our members and the community and the Rochdale Center office space for both our members and staff.</p>\r\n<p style=\"color: #000000; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;\">Students created the co-ops to meet their own needs, thus the ICC offers eight month Fall/Winter, 4 month Fall or Winter, and 2 or 4 month Spring/Summer contracts. Our houses range in size from 12 to 180 members. The average Central Campus house holds about 30 people.</p>\r\n<p style=\"color: #000000; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;\">Escher Co-op on North Campus attracts a large graduate student population and a sizable international student population. The Central Campus co-ops are home to is a large, diverse crowd. Because co-ops are open to all students, each house is made up of members from a&nbsp; wide variety of backgrounds, interests, and academic programs. What brings us together is our dedication to create the best living atmosphere possible.</p>\r\n<p style=\"color: #000000; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;\">Most houses are quite social. There are often ICC-wide parties at one house or another. Houses get&nbsp;together to play IM soccer, go apple picking, bowling, or ice skating&mdash;the list goes on and on.</p>\r\n<p style=\"color: #000000; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;\">The ICC houses are more than just places to sleep and eat.&nbsp; Though our mission commits us to affordable housing, for many of our members it is the community that makes all the difference.&nbsp;</p>",
-        "Summary": "The Inter-Cooperative Council and its 550&#43; members provide affordable housing and an inclusive community to college students. The ICC is comprised of 16 unique housing communities located on both Central and North Campus.",
-        "CategoryIds": [
-            "3653",
-            "3655",
-            "3658",
-            "4212",
-            "4568",
-            "18512",
-            "18517",
-            "18526"
-        ],
-        "CategoryNames": [
-            "Governance",
-            "Health & Wellness",
-            "Service/Service Learning",
-            "Environmental",
-            "Gender/Sexuality",
-            "Time Commitment: 3-5 hours/week",
-            "Joining Process: Application",
-            "Cost: $501+/Semester"
-        ],
-        "Status": "Active",
-        "Visibility": "Public"
-    },
-    {
-        "@search.score": 1.0,
         "Id": "64653",
         "InstitutionId": 66,
         "ParentOrganizationId": 62529,
@@ -16462,37 +16363,6 @@
         "CategoryNames": [
             "Academic/Honor Societies",
             "Graduate/Professional"
-        ],
-        "Status": "Active",
-        "Visibility": "Public"
-    },
-    {
-        "@search.score": 1.0,
-        "Id": "73439",
-        "InstitutionId": 66,
-        "ParentOrganizationId": 62529,
-        "BranchId": 62529,
-        "Name": "International Youth and Students for Social Equality",
-        "ShortName": "IYSSE",
-        "WebsiteKey": "iysse",
-        "ProfilePicture": "aaa69559-ec5d-4923-b885-a462175353beeea9dd76-ffbf-4857-82f0-9b6446ff9b9c.png",
-        "Description": "<p>The International Youth and Students for Social Equality hopes to foster discussion and political mobilization against social, political and economic inequality. Equality is a fundamental right of humankind, denied almost universally to the people of this earth under the economic system of capitalism. While our organization encourages various means of promoting equality, our program aspires towards a socialist transformation of society.</p>",
-        "Summary": "The IYSSE hopes to foster discussion and political mobilization against social, political and economic inequality. While our organization encourages various means of promoting equality, our program aspires towards a socialist transformation of society.",
-        "CategoryIds": [
-            "3648",
-            "3656",
-            "4212",
-            "18506",
-            "18512",
-            "18521"
-        ],
-        "CategoryNames": [
-            "Activism",
-            "Media & Creative Writing",
-            "Environmental",
-            "Cost: $0/Semester",
-            "Time Commitment: 3-5 hours/week",
-            "Joining Process: Meeting/Social Attendance"
         ],
         "Status": "Active",
         "Visibility": "Public"
@@ -17325,7 +17195,7 @@
         "ShortName": "KOA",
         "WebsiteKey": "kappaomegaalpha",
         "ProfilePicture": "24ade6d2-efc6-4f32-ad45-47252a9a923a3ce3db06-46ca-4f19-af8b-a88a5749ffe2.png",
-        "Description": "<p><span class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_C9DxTc\">The Kappa Omega Alpha Co-Ed Pre-Law and Public Policy Fraternity was founded at the University of Michigan in the Fall of 2009. Since its founding, Kappa Omega Alpha has expanded to include additional chapters at the University of Maryland, the University of Virginia</span><span class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_C9DxTc\">, Indiana University, Syracuse University, Ohio State, and the George Washington University.&nbsp;</span><span class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_C9DxTc\">Kappa Omega Alpha remains committed to the professional development of our members, the development of interpersonal relationships among brothers, and giving back to the campus and the larger Ann Arbor community.</span></p>\r\n<p>&nbsp;</p>\r\n<p><strong>Recruitment:&nbsp;</strong></p>\r\n<p>&nbsp;</p>\r\n<p><span class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_C9DxTc\">We welcome any undergraduate students to rush KOA, regardless of your major or year! No prior experience is necessary, just a passion for the legal and public policy fields! Visit our Instagram (@koaumich) or website <a href=\"http://www.koaumich.org\">koaumich.org</a> for the rush schedule and Festifall/Winterfest information. We have a fall rush cycle after Labor Day and a winter rush cycle after Winterfest.&nbsp;</span>If interested in rushing, please fill out our Fall 2025 Interest Form: <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSc5cc2gHzTQTDk2IrCw6DZhgdni1vgPZOLaBpD3Lsp_uU_sdQ/viewform?usp=header\"> Interest Form</a></p>\r\n<p>&nbsp;</p>\r\n<p>Come chat with us at Festifall in the Ingalls Mall Table E14 on Wednesday, August 27th, from 4:30-6:00pm! We are excited to meet you all!&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>First round events (open invite):&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>Meet the Members - Tuesday, September 2nd from 7-9pm in the CCCB room 1420</p>\r\n<p>DEI Panel and Discussion - Wednesday, September 3rd from 7-9pm in the Chemistry Building Auditorium 1200</p>\r\n<p>Trivia Night - Thursday, September 4th from 7-9pm in the CCCB room 2460 (fun trivia, not law related, you do not need to prepare for this!)&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p><strong>Our purpose:</strong></p>\r\n<p>&nbsp;</p>\r\n<p>The purpose of this Fraternity shall be to acknowledge undergraduates in pursuing their interests in the fields of law, public policy, and criminal justice on both a social and professional scale; to uphold the strength of fraternalism; to strengthen the ideals of Kappa Omega Alpha Co-Ed Fraternity; to participate actively in the community and campus; and to ensure that each member develops their sense of understanding while bestowing ideals actively to the advancement of others.</p>\r\n<p>&nbsp;</p>\r\n<p><strong>Our pillars:&nbsp;</strong></p>\r\n<p>&nbsp;</p>\r\n<p><em>Brotherhood-</em>&nbsp;KOA values forming meaningful connections and friendships. As a fraternity, we participate in various bonding events including holiday parties, semi-formals, tailgates, intramural sports teams, visiting cider mills, going out to dinner with brothers, and so much more.</p>\r\n<p>&nbsp;</p>\r\n<p><em>Community Engagement-</em> KOA greatly values giving back to the campus and surrounding communities. Accordingly, we participate in various community engagement activities&nbsp;each semester, such as volunteering with the Ronald McDonald House, Neighbors Building Brightmoor, and Food Gatherers, amongst several others.&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p><em>Professionalism-</em>&nbsp;Professionalism is a significant part of KOA. Our members find professional enrichment through our extensive alumni network, resume and LinkedIn workshops, LSAT resources, law school admissions panels, and guest speakers, including lawyers, judges, and local politicians, in addition&nbsp;to countless further opportunities.&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p><strong>Our Values:&nbsp;</strong></p>\r\n<p>&nbsp;</p>\r\n<p><em>Respect-</em>&nbsp;Relationships rely on mutual respect. Kappa Omega Alpha strives to develop leaders who can build inclusive environments, attentively listen, and actively invest in difficult relationships. We hope our brothers have enough respect for themselves and their peers to have patience and grow from experience.</p>\r\n<p>&nbsp;</p>\r\n<p><em>Integrity-</em>&nbsp;We strive to be honest, authentic, and fair in our personal and professional lives. It is essential to prioritize truth, to oneself and one's core principles, and to have the humility to know when to evolve.&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p><em>Initiative-</em>&nbsp;Our brotherhood seeks to be curious enough to ask critical questions, passionate enough to follow an inclination, and driven enough to complete their goals. Our members hope to not only recognize patterns, think independently, and articulate solutions but to take action with conviction and strength.&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p><strong>Dues:&nbsp;</strong></p>\r\n<p>&nbsp;</p>\r\n<p>Brothers contribute semester dues that support the fraternity&rsquo;s resources and events. To ensure finances are never a barrier, we offer payment plans, reduced rates, and fully waived dues when needed. Standard dues are $150 for first-semester members, $75 for general members, and $35 for seniors.&nbsp;</p>",
+        "Description": "<p><span class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_C9DxTc\">The Kappa Omega Alpha Co-Ed Pre-Law and Public Policy Fraternity was founded at the University of Michigan in the Fall of 2009. Since its founding, Kappa Omega Alpha has expanded to include additional chapters at the University of Maryland, the University of Virginia</span><span class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_C9DxTc\">, Indiana University, Syracuse University, Ohio State, and the George Washington University.&nbsp;</span><span class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_C9DxTc\">Kappa Omega Alpha remains committed to the professional development of our members, the development of interpersonal relationships among brothers, and giving back to the campus and the larger Ann Arbor community.</span></p>\r\n<p>&nbsp;</p>\r\n<p><strong>Recruitment:&nbsp;</strong></p>\r\n<p>&nbsp;</p>\r\n<p><span class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_C9DxTc\">We welcome any undergraduate students to rush KOA, regardless of your major or year! No prior experience is necessary, just a passion for the legal and public policy fields! Visit our Instagram (@koaumich) or website <a href=\"http://www.koaumich.org\">koaumich.org</a> for the rush schedule and Festifall/Winterfest information. We have a fall rush cycle after Labor Day and a winter rush cycle after Winterfest.&nbsp;</span>If interested in rushing, please fill out our Winter 2026 Interest Form: <a href=\"https://docs.google.com/forms/d/e/1FAIpQLScxqtdiYd38gvJnjOamP79PyjJriBiUQQvU7OGZn5qpG6jPIQ/viewform?usp=dialog\"> Interest Form</a></p>\r\n<p>&nbsp;</p>\r\n<p>Come chat with us at Winterfest in the Rogel Ballroom of the Michigan Union at Table 4 on Tuesday, January 13th, from 4-7pm! We are excited to meet you all!&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>First round events (open invite):&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>Meet the Members - Tuesday, January 20th from 7-9pm in the CCCB Room 1420</p>\r\n<p>&nbsp;</p>\r\n<p>DEI Panel and Discussion - Wednesday, January 21st from 7-9pm in the Michigan Union Kuenzel Room</p>\r\n<p>&nbsp;</p>\r\n<p>Trivia Night - Thursday, January 22nd from 7-9pm in the CCCB room 3420 (fun trivia, not law related, you do not need to prepare for this!)&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p><strong>Our purpose:</strong></p>\r\n<p>&nbsp;</p>\r\n<p>The purpose of this Fraternity shall be to acknowledge undergraduates in pursuing their interests in the fields of law, public policy, and criminal justice on both a social and professional scale; to uphold the strength of fraternalism; to strengthen the ideals of Kappa Omega Alpha Co-Ed Fraternity; to participate actively in the community and campus; and to ensure that each member develops their sense of understanding while bestowing ideals actively to the advancement of others.</p>\r\n<p>&nbsp;</p>\r\n<p><strong>Our pillars:&nbsp;</strong></p>\r\n<p>&nbsp;</p>\r\n<p><em>Brotherhood-</em>&nbsp;KOA values forming meaningful connections and friendships. As a fraternity, we participate in various bonding events including holiday parties, semi-formals, tailgates, intramural sports teams, visiting cider mills, going out to dinner with brothers, and so much more.</p>\r\n<p>&nbsp;</p>\r\n<p><em>Community Engagement-</em> KOA greatly values giving back to the campus and surrounding communities. Accordingly, we participate in various community engagement activities&nbsp;each semester, such as volunteering with the Ronald McDonald House, Neighbors Building Brightmoor, and Food Gatherers, amongst several others.&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p><em>Professionalism-</em>&nbsp;Professionalism is a significant part of KOA. Our members find professional enrichment through our extensive alumni network, resume and LinkedIn workshops, LSAT resources, law school admissions panels, and guest speakers, including lawyers, judges, and local politicians, in addition&nbsp;to countless further opportunities.&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p><strong>Our Values:&nbsp;</strong></p>\r\n<p>&nbsp;</p>\r\n<p><em>Respect-</em>&nbsp;Relationships rely on mutual respect. Kappa Omega Alpha strives to develop leaders who can build inclusive environments, attentively listen, and actively invest in difficult relationships. We hope our brothers have enough respect for themselves and their peers to have patience and grow from experience.</p>\r\n<p>&nbsp;</p>\r\n<p><em>Integrity-</em>&nbsp;We strive to be honest, authentic, and fair in our personal and professional lives. It is essential to prioritize truth, to oneself and one's core principles, and to have the humility to know when to evolve.&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p><em>Initiative-</em>&nbsp;Our brotherhood seeks to be curious enough to ask critical questions, passionate enough to follow an inclination, and driven enough to complete their goals. Our members hope to not only recognize patterns, think independently, and articulate solutions but to take action with conviction and strength.&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p><strong>Dues:&nbsp;</strong></p>\r\n<p>&nbsp;</p>\r\n<p>Brothers contribute semester dues that support the fraternity&rsquo;s resources and events. To ensure finances are never a barrier, we offer payment plans, reduced rates, and fully waived dues when needed. Standard dues are $150 for first-semester members, $75 for general members, and $35 for seniors.&nbsp;</p>",
         "Summary": "Kappa Omega Alpha Pre-Law &amp; Public Policy Fraternity (KOA) is a co-ed pre-law and public policy fraternity dedicated to empowering our members through professional development, strong brotherhood support, and community engagement.\r\n",
         "CategoryIds": [
             "3648",
@@ -17655,7 +17525,7 @@
         "ShortName": "KiT",
         "WebsiteKey": "kit",
         "ProfilePicture": "d8bc818d-688f-4d7d-bd60-bf6daf9939ad15500fc9-f44d-4780-b01c-22c7fd1e5d78.png",
-        "Description": "\r\n<p>A community for students who are passionate in sports science, physical therapy, and technology to engage in hands-on projects, research collaborations, and industry networking opportunities. Whether you're interested in injury prevention, human performance,\r\n or the use of technology in sports, our club offers a space to learn, experiment, and share your curiosities with other like-minded peers.</p>\r\n",
+        "Description": "<p>A community for students who are passionate in sports science, physical therapy, and technology to engage in hands-on projects, research collaborations, and industry networking opportunities. Whether you're interested in injury prevention, human performance, or the use of technology in sports, our club offers a space to learn, experiment, and share your curiosities with other like-minded peers.</p>",
         "Summary": "A community for students who are passionate in sports science, physical therapy, and technology to engage in hands-on projects, research collaborations, and industry networking opportunities.",
         "CategoryIds": [
             "3652",
@@ -17830,6 +17700,33 @@
         ],
         "CategoryNames": [
             "Cultural/Ethnic"
+        ],
+        "Status": "Active",
+        "Visibility": "Public"
+    },
+    {
+        "@search.score": 1.0,
+        "Id": "403438",
+        "InstitutionId": 66,
+        "ParentOrganizationId": 62529,
+        "BranchId": 62529,
+        "Name": "Korean Church of Ann Arbor Campus Ministry",
+        "ShortName": "KCOAA Campus Ministry",
+        "WebsiteKey": "openkcoaa",
+        "ProfilePicture": "3020dc39-3e21-4979-8068-ea4e13953fd8170a204e-2b36-4b2b-8e85-a8ac86e44bf6.png",
+        "Description": "<p>The Korean Church of Ann Arbor Campus Ministry is a faith-based organization dedicated to supporting young adults and students in their spiritual journeys. Our mission is to create a welcoming and inclusive community where individuals can explore and deepen their relationship with God. Through regular worship services, engaging Bible studies, and various fellowship and service activities, we aim to foster a nurturing environment that encourages both personal and communal growth in faith. We welcome people from all backgrounds to join us in our mission of spiritual enrichment and communal support, and to be part of a network that strives to make a positive impact on the Ann Arbor campus and beyond.</p>",
+        "Summary": "The Korean Church of Ann Arbor Campus Ministry fosters spiritual growth and community among young adults and students through worship, Bible studies, and service activities. Join us to deepen your faith and build meaningful connections.",
+        "CategoryIds": [
+            "3657",
+            "18506",
+            "18511",
+            "18519"
+        ],
+        "CategoryNames": [
+            "Religious/Spiritual",
+            "Cost: $0/Semester",
+            "Time Commitment: 1-2 hours/week",
+            "Joining Process: Automatic Acceptance"
         ],
         "Status": "Active",
         "Visibility": "Public"
@@ -18014,29 +17911,6 @@
             "Joining Process: Application",
             "Joining Process: Interview",
             "Joining Process: Meeting/Social Attendance"
-        ],
-        "Status": "Active",
-        "Visibility": "Public"
-    },
-    {
-        "@search.score": 1.0,
-        "Id": "64654",
-        "InstitutionId": 66,
-        "ParentOrganizationId": 62529,
-        "BranchId": 62529,
-        "Name": "Lambda Phi Epsilon",
-        "ShortName": "LPhiE, LFE, Lambdas",
-        "WebsiteKey": "lphie",
-        "ProfilePicture": "efe70229-ad6e-4d0f-9413-cf04df21fada3aeab53f-ed0f-4f1e-9d09-574dee4493a2.jpg",
-        "Description": "<p>Lambda Phi Epsilon is the first and only internationally recognized Asian-interest fraternity. Our fraternity's motto is \"To Be Leaders Among Men\" and we are dedicated to creating such individuals by promoting brotherhood, academics and professional achievement, social interaction, and community service. Although Lambda Phi Epsilon is an Asian-interest fraternity, it is comprised of a diverse group of individuals.</p>",
-        "Summary": "Lambda Phi Epsilon is an internationally-recognized Asian-interest fraternity in the United States and Canada. Being the largest Asian-interest fraternity, Lambda Phi Epsilon continues to expand to other campuses every year.",
-        "CategoryIds": [
-            "3651",
-            "3659"
-        ],
-        "CategoryNames": [
-            "Cultural/Ethnic",
-            "Social Fraternity/Sorority"
         ],
         "Status": "Active",
         "Visibility": "Public"
@@ -18611,29 +18485,6 @@
     },
     {
         "@search.score": 1.0,
-        "Id": "73049",
-        "InstitutionId": 66,
-        "ParentOrganizationId": 62529,
-        "BranchId": 62529,
-        "Name": "Lebanese Student Association",
-        "ShortName": "LSA",
-        "WebsiteKey": "lebanese",
-        "ProfilePicture": "26607e29-6f62-4a3e-835f-f9fbbd94991d882820de-01b0-496b-9eef-87fd44802e48.png",
-        "Description": "<p class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_p1\"><strong>The Lebanese Student Association</strong>&nbsp;is an organization aiming to unite and serve the Lebanese community on campus while educating the general student body of the&nbsp;University&nbsp;of&nbsp;Michigan&nbsp;about Lebanese culture and society. The association is committed to benefiting the Lebanese, the non-Lebanese and non-Arab communities while promoting Lebanese culture and heritage, thus adding to the diversity of the campus, as well as increasing public awareness about Lebanese. This organization is neither religious, nor political.&nbsp;</p>\r\n<p>&nbsp;</p>",
-        "Summary": "To promote Lebanese heritage and culture on campus, and unite students with an interest in Lebanon or who are of Lebanese descent. To be the voice of Lebanese students on campus and serve our community.",
-        "CategoryIds": [
-            "3650",
-            "3658"
-        ],
-        "CategoryNames": [
-            "Creative & Performing Arts",
-            "Service/Service Learning"
-        ],
-        "Status": "Active",
-        "Visibility": "Public"
-    },
-    {
-        "@search.score": 1.0,
         "Id": "410783",
         "InstitutionId": 66,
         "ParentOrganizationId": 62529,
@@ -18811,39 +18662,6 @@
     },
     {
         "@search.score": 1.0,
-        "Id": "391192",
-        "InstitutionId": 66,
-        "ParentOrganizationId": 62529,
-        "BranchId": 62529,
-        "Name": "Lift the Mask Club at UMich",
-        "ShortName": "LTMC",
-        "WebsiteKey": "liftthemask",
-        "ProfilePicture": "4c615fb6-9198-4ddc-8e07-5b1f8c67f01e48336803-289f-4ad5-8bf2-b0467028eb92.jpg",
-        "Description": "<p><em><span style=\"font-weight: 400;\">We want to &ldquo;Lift the Mask&rdquo; on the stigma of mental health. The Quell Foundation is dedicated to providing awareness, access and training around mental health subjects. Lift the Mask Club provides resources (hotline, websites, organizations) to the members of our club that relate to that topic of the meetings. The club is sponsored by the Quell Foundation. The first step is conversation. Following that we want to promote psychological first aid (appropriate recognition and response).&nbsp;</span></em></p>",
-        "Summary": "Improving student wellness and recognition/response to signs of mental distress.\r\n",
-        "CategoryIds": [
-            "3648",
-            "3655",
-            "3658",
-            "18506",
-            "18511",
-            "18519",
-            "18521"
-        ],
-        "CategoryNames": [
-            "Activism",
-            "Health & Wellness",
-            "Service/Service Learning",
-            "Cost: $0/Semester",
-            "Time Commitment: 1-2 hours/week",
-            "Joining Process: Automatic Acceptance",
-            "Joining Process: Meeting/Social Attendance"
-        ],
-        "Status": "Active",
-        "Visibility": "Public"
-    },
-    {
-        "@search.score": 1.0,
         "Id": "409903",
         "InstitutionId": 66,
         "ParentOrganizationId": 62529,
@@ -18851,8 +18669,8 @@
         "Name": "Lighthouse Productions",
         "ShortName": "",
         "WebsiteKey": "lighthouse",
-        "ProfilePicture": "0125b9c1-46e8-4b8f-b795-525718cf8f7141d08413-07af-43fd-a0fd-b3d9a8874d2c.PNG",
-        "Description": "\r\n<div>\r\n<div>\r\n<div>\r\n<p>Lighthouse Productions is a group that seeks to integrate faith in Jesus with artistic giftings. Whether it be through a variety show or informal \u201cjam sessions,\u201d our mission is to glorify God through the arts. We strive to be a community that reveals our\r\n redemptive hope by using the performing arts to reflect the love of Jesus.</p>\r\n</div>\r\n</div>\r\n</div>\r\n",
+        "ProfilePicture": "ae37b33a-6771-4d57-9544-67d715976b3b041f977a-629e-4877-9fe0-ae0f098d9846.png",
+        "Description": "<div>\r\n<div>\r\n<div>\r\n<p>Lighthouse Productions is a group that seeks to integrate faith in Jesus with artistic giftings. Whether it be through a variety show or informal &ldquo;jam sessions,&rdquo; our mission is to glorify God through the arts. We strive to be a community that reveals our redemptive hope by using the performing arts to reflect the love of Jesus.</p>\r\n</div>\r\n</div>\r\n</div>",
         "Summary": "We are a group that seeks to integrate faith in Jesus with artistic giftings. In the end, our mission is to glorify God through the arts.",
         "CategoryIds": [
             "3650",
@@ -20222,31 +20040,6 @@
     },
     {
         "@search.score": 1.0,
-        "Id": "72353",
-        "InstitutionId": 66,
-        "ParentOrganizationId": 62529,
-        "BranchId": 62529,
-        "Name": "Materials Science & Engineering Graduate Student Council",
-        "ShortName": "MSE GSC",
-        "WebsiteKey": "msegsc",
-        "ProfilePicture": "c40b76f7-3edd-4fc5-93e0-12bd816f5033bdbff249-36e3-4b10-a5d0-2cabf2429639.png",
-        "Description": "\r\n<p>The Graduate Student Council of the Materials Science &amp; Engineering Department seeks<br>\r\nto provide opportunities for the graduate students of our department and other interested<br>\r\nstudents to engage closely with each other to foster deeper relationships to promote<br>\r\ncommunity. We commit to serving and representing the interests and concerns of our<br>\r\nmembers and working to provide opportunities for intellectual expression, professional<br>\r\ndevelopment, leadership, community service, and cooperation that can enrich the<br>\r\neducational experience at the University of Michigan and carry our members forward as<br>\r\nengineers.</p>\r\n",
-        "Summary": "An organization dedicated to encouraging collaboration and enhancing the social environment within the grad students affiliated with the MSE department.",
-        "CategoryIds": [
-            "3649",
-            "3652",
-            "3654"
-        ],
-        "CategoryNames": [
-            "Academic/Honor Societies",
-            "Science/Technology/Engineering",
-            "Graduate/Professional"
-        ],
-        "Status": "Active",
-        "Visibility": "Public"
-    },
-    {
-        "@search.score": 1.0,
         "Id": "72989",
         "InstitutionId": 66,
         "ParentOrganizationId": 62529,
@@ -20754,31 +20547,6 @@
             "Graduate/Professional",
             "Health & Wellness",
             "Service/Service Learning"
-        ],
-        "Status": "Active",
-        "Visibility": "Public"
-    },
-    {
-        "@search.score": 1.0,
-        "Id": "341033",
-        "InstitutionId": 66,
-        "ParentOrganizationId": 62529,
-        "BranchId": 62529,
-        "Name": "Medical Students for Disability Health and Advocacy",
-        "ShortName": "MSDHA",
-        "WebsiteKey": "msdha",
-        "ProfilePicture": "13f3a6a7-9274-4ed5-8a7a-094cc1068f4f9480901e-ac62-4688-8881-5bbb823cb8b8.PNG",
-        "Description": "<p>Medical Students for Disability Health &amp; Advocacy (MSDHA) is a group led by medical students to promote disability health initiatives and advocate for health science learners with disability and chronic illness.</p>",
-        "Summary": "Medical Students for Disability Health &amp; Advocacy (MSDHA) is a group led by medical students to promote disability health initiatives and advocate for health science learners with disability and chronic illness.\r\n",
-        "CategoryIds": [
-            "3648",
-            "3654",
-            "3655"
-        ],
-        "CategoryNames": [
-            "Activism",
-            "Graduate/Professional",
-            "Health & Wellness"
         ],
         "Status": "Active",
         "Visibility": "Public"
@@ -21372,6 +21140,27 @@
             "Science/Technology/Engineering",
             "Health & Wellness",
             "Service/Service Learning"
+        ],
+        "Status": "Active",
+        "Visibility": "Public"
+    },
+    {
+        "@search.score": 1.0,
+        "Id": "421919",
+        "InstitutionId": 66,
+        "ParentOrganizationId": 62529,
+        "BranchId": 62529,
+        "Name": "Michigan - Counter Aerial System for Target Lock and Engagment",
+        "ShortName": "M-CASTLE",
+        "WebsiteKey": "m-castle",
+        "ProfilePicture": "27cbd7ad-aeaa-4480-aeed-c3bb2803b9f9d0c904a4-e3cb-4370-8ba2-fd3098822e48.png",
+        "Description": "<p>M-CASTLE is a student project team part of the x88 course series within the University of Michigan Aerospace Department. The team utilizes Models Based Systems Engineering (MBSE) to design a system that provides a proof of concept of using kinetic and non-kinetic effectors to \"disable\" enemy drones. The team shall adhere to all university and government guidelines, while maintaining communication with our sponsor, Leidos, to complete this project.&nbsp;</p>",
+        "Summary": "M-CASTLE is a student project team part of the x88 course series within the University of Michigan Aerospace Department. ",
+        "CategoryIds": [
+            "3652"
+        ],
+        "CategoryNames": [
+            "Science/Technology/Engineering"
         ],
         "Status": "Active",
         "Visibility": "Public"
@@ -22874,7 +22663,7 @@
         "ShortName": "MDC",
         "WebsiteKey": "michigandataconsulting",
         "ProfilePicture": "7d7ca544-dff2-4364-98f7-7f6d9c950f332f49c188-4282-4c9b-ab4d-e899bab7f2b4.jpg",
-        "Description": "\r\n<div class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_flex x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_max-w-full x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_flex-col x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_flex-grow\">\r\n<div class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_min-h-8 x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_text-message x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_flex x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_w-full x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_flex-col x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_items-end x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_gap-2 x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_whitespace-normal x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_break-words x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_text-start x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_[.text-message&#43;&amp;]:mt-5\" dir=\"auto\">\r\n<div class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_flex x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_w-full x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_flex-col x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_gap-1 x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_empty:hidden x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_first:pt-[3px]\">\r\n<div class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_markdown x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_prose x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_w-full x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_break-words x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_dark:prose-invert x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_dark\">\r\n<p><span style=\"font-weight:400\">MDC's mission is to provide innovative data-driven consulting services that deliver high-impact solutions to our clients. We aim to equip students with the analytical skills needed to solve complex business problems and drive\r\n meaningful impact across industries\u2014fostering a community of diverse, strategic analysts across campus. Through real-world consulting projects and hackathons, MDC is dedicated to empowering the next generation of tech consultants at UM.</span></p>\r\n<p>&nbsp;</p>\r\n<p><span style=\"font-weight:400\">&nbsp;Join our <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSer5EaePDL5UquD-x8UxoqCkkFiTZeWHnWjChD6ep-uKd5q3Q/viewform?usp=sharing&amp;ouid=102896644466446205247\">\r\nmailing list</a>&nbsp;for F25 recruitment!&nbsp; &nbsp;</span></p>\r\n<p>&nbsp;</p>\r\n<p><span style=\"font-weight:400\">(We don't manage the maize page rosters. Follow our socials or join our mailing list instead.)</span></p>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n",
+        "Description": "<div class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_flex x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_max-w-full x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_flex-col x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_flex-grow\">\r\n<div class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_min-h-8 x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_text-message x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_flex x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_w-full x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_flex-col x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_items-end x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_gap-2 x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_whitespace-normal x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_break-words x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_text-start x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_[.text-message+&amp;]:mt-5\" dir=\"auto\">\r\n<div class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_flex x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_w-full x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_flex-col x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_gap-1 x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_empty:hidden x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_first:pt-[3px]\">\r\n<div class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_markdown x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_prose x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_w-full x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_break-words x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_dark:prose-invert x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_dark\">\r\n<p><span style=\"font-weight: 400;\">MDC's mission is to provide innovative data-driven consulting services that deliver high-impact solutions to our clients. We aim to equip students with the analytical skills needed to solve complex business problems and drive meaningful impact across industries&mdash;fostering a community of diverse, strategic analysts across campus. Through real-world consulting projects and hackathons, MDC is dedicated to empowering the next generation of tech consultants at UM.</span></p>\r\n<p>&nbsp;</p>\r\n<p><span style=\"font-weight: 400;\">&nbsp;Join our <a href=\"https://docs.google.com/forms/d/e/1FAIpQLScwjInvjv73FZxnd0vzfL5q52YJcLLf6bkcOh5S7hj5fyflHA/viewform?usp=dialog\"> mailing list</a>&nbsp;for W26 recruitment!&nbsp; &nbsp;</span></p>\r\n<p>&nbsp;</p>\r\n<p><span style=\"font-weight: 400;\">(We don't manage the maize page rosters. Follow our socials or join our mailing list instead.)</span></p>\r\n</div>\r\n</div>\r\n</div>\r\n</div>",
         "Summary": "Michigan Data Consulting empowers students with data science skills to tackle real-world business challenges. Through consulting projects and datathons, we foster a community of analytical thinkers driving meaningful impact across industries and campus.\r\n",
         "CategoryIds": [
             "3649",
@@ -23028,6 +22817,31 @@
             "Time Commitment: 1-2 hours/week",
             "Joining Process: Application",
             "Joining Process: Meeting/Social Attendance"
+        ],
+        "Status": "Active",
+        "Visibility": "Public"
+    },
+    {
+        "@search.score": 1.0,
+        "Id": "166888",
+        "InstitutionId": 66,
+        "ParentOrganizationId": 62529,
+        "BranchId": 62529,
+        "Name": "Michigan DNA Day",
+        "ShortName": "MI DNA Day",
+        "WebsiteKey": "midnaday",
+        "ProfilePicture": "a78aac62-2ee4-4a93-b6c9-b6c2189b526acce72718-d4d0-4694-b949-9bccb5907e94.png",
+        "Description": "<div class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_page\" title=\"Page 1\">\r\n<div class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_layoutArea\">\r\n<div class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_column\">\r\n<p>Michigan DNA Day, or MI DNA Day for short, is an annual event where scientists visit local high schools to present interactive, hands-on lessons about genetics, genomics, and biotechnology. MI DNA Day provides a unique opportunity for high school students to meet and interact with young scientists, which often clarifies misconceptions of what a scientist looks like and breaks down barriers for students to follow scientific career paths. Scientist ambassadors also discuss their own ongoing research with students and share exciting career opportunities in science and biotechnology. Moreover, MI DNA Day allows early-career scientists to share their passion for science with students, fostering a spirit of public engagement leading to continued participation in science outreach throughout their careers.</p>\r\n<p>MI DNA Day takes its name from National DNA Day, which was created to commemorate the completion of the Human Genome Project in 2003 and the discovery of DNA&rsquo;s double helix in 1953. There are currently six other states with their own DNA Day programs, and we are ecstatic that Michigan is now on that growing list!</p>\r\n</div>\r\n</div>\r\n</div>",
+        "Summary": "Michigan DNA Day is established to engage with high schools throughout the state of Michigan to educate students about cutting-edge facets of genetics and genomics that are relevant to their lives and to society.",
+        "CategoryIds": [
+            "3652",
+            "3654",
+            "3658"
+        ],
+        "CategoryNames": [
+            "Science/Technology/Engineering",
+            "Graduate/Professional",
+            "Service/Service Learning"
         ],
         "Status": "Active",
         "Visibility": "Public"
@@ -23235,8 +23049,8 @@
         "ShortName": "MECG",
         "WebsiteKey": "michiganengineeringconsultinggroup",
         "ProfilePicture": "a13d78f8-b9dc-412e-86b6-9e8b5d062d117bab6bb7-7d55-4802-9ce0-7743b6927a3b.jpeg",
-        "Description": "<p>MECG is a pro-bono consulting group for engineering majors at the University of Michigan.&nbsp;<span style=\"font-weight: 400;\">Through education sessions, client projects, speaker events, social events, and trips, engineering majors will be a part of a fun work environment while provided with hands-on projects and learning opportunities to expose members to what a consulting career could look like.</span></p>",
-        "Summary": "MECG is a student-led pro-bono consulting group for engineering majors at the University of Michigan. At MECG we strive to make an impact on our members and the community around us through weekly meetings, consulting projects, speaker events, and more.",
+        "Description": "<p>MECG is a pro-bono consulting group&mdash;composed primarily of engineers&mdash;open to all majors at the University of Michigan.&nbsp;<span style=\"font-weight: 400;\">Through education sessions, client projects, speaker events, social events, and trips, members will be part of a fun work environment while being provided with hands-on projects and learning opportunities that expose them to what a consulting career could look like.</span></p>",
+        "Summary": "MECG is a student-led pro-bono consulting group geared toward engineering majors at the University of Michigan. At MECG, we strive to make an impact on our members and our community through weekly meetings, consulting projects, treks, and speaker events.",
         "CategoryIds": [
             "3652",
             "16550",
@@ -23433,8 +23247,8 @@
         "Name": "Michigan Euchre Club",
         "ShortName": "MEC",
         "WebsiteKey": "michigan-euchre-club",
-        "ProfilePicture": "54d3a6c1-f548-46a3-8ae6-bb6232220fc1a74684c2-b283-4831-ae96-e0cee5dc1fa1.png",
-        "Description": "<p><span style=\"font-weight: 400;\">The Michigan Euchre organization works to provide a space for euchre players of all skill levels to learn, compete, and connect through the beloved sport of euchre. We aim to bring students together and to create a welcoming environment for those who possess a shared appreciation for the game.</span></p>\r\n<p>&nbsp;</p>\r\n<p><span style=\"font-weight: 400;\">Join our GroupMe to stay updated on our meeting times!</span></p>\r\n<p><a href=\"https://groupme.com/join_group/106948472/t50encET\">GroupMe Link</a></p>",
+        "ProfilePicture": "5f7b183d-d9f7-425a-948b-3dbf1e7541c4cc4dfc87-7e51-4783-b68b-524cd9d911da.PNG",
+        "Description": "<p><span style=\"font-weight: 400;\">The Michigan Euchre organization works to provide a space for euchre players of all skill levels to learn, compete, and connect through the beloved game of euchre. We aim to bring students together and create a welcoming environment for those who possess a shared appreciation for the game.</span></p>\r\n<p><strong>We meet every Monday from 8:00-10:00 PM in Mason Hall!</strong></p>\r\n<p><span style=\"font-weight: 400;\">Join our GroupMe to stay updated:</span></p>\r\n<p><a href=\"https://groupme.com/join_group/106948472/t50encET\">GroupMe Link</a></p>",
         "Summary": "Michigan Euchre is an organization created to provide a place for people to play the beloved card game of euchre.",
         "CategoryIds": [
             "3660",
@@ -23499,6 +23313,31 @@
         "CategoryNames": [
             "Creative & Performing Arts",
             "Science/Technology/Engineering"
+        ],
+        "Status": "Active",
+        "Visibility": "Public"
+    },
+    {
+        "@search.score": 1.0,
+        "Id": "177670",
+        "InstitutionId": 66,
+        "ParentOrganizationId": 62529,
+        "BranchId": 62529,
+        "Name": "Michigan Fashion Media Summit",
+        "ShortName": "MFMS",
+        "WebsiteKey": "mfms",
+        "ProfilePicture": "3b7a5d5a-bc20-48ae-9803-eab2670078f89aeac8ff-1a4f-4ee0-b14e-6e9f696ee6ff.png",
+        "Description": "\r\n<p><span style=\"font-weight:400\">The Michigan Fashion Media Summit is the premier platform for college students and industry professionals to collaborate and shape the future fabric of fashion.</span></p>\r\n<p><span style=\"font-weight:400\">The Michigan Fashion Media Summit is a day long event focused on fashion, retail and media at the Stephen M. Ross School of Business annually. Our summit is filled with industry defining keynote conversations from the top names\r\n in retail, exclusive networking opportunities with the world\u2019s largest brands and a student brand showcase from elite up-and-coming talent. The Michigan Fashion Media Summit also hosts smaller events throughout the year the connect students to professional\r\n opportunities.</span></p>\r\n",
+        "Summary": "The Michigan Fashion Media Summit is the premier platform for college students and industry professionals to collaborate and shape the future fabric of fashion.\r\n",
+        "CategoryIds": [
+            "3654",
+            "3656",
+            "16550"
+        ],
+        "CategoryNames": [
+            "Graduate/Professional",
+            "Media & Creative Writing",
+            "Business & Entrepreneurship"
         ],
         "Status": "Active",
         "Visibility": "Public"
@@ -24259,29 +24098,35 @@
     },
     {
         "@search.score": 1.0,
-        "Id": "79305",
+        "Id": "389537",
         "InstitutionId": 66,
         "ParentOrganizationId": 62529,
         "BranchId": 62529,
-        "Name": "Michigan Izzat",
-        "ShortName": "Izzat",
-        "WebsiteKey": "michiganizzat",
-        "ProfilePicture": "63ec4645-9668-4007-9f70-5fc908ae143e3f1b0a01-e16e-4834-ae7c-e3e9243d2fbd.jpeg",
-        "Description": "\r\n<p>Michigan Izzat is the co-ed Bollywood Fusion dance team at the University of Michigan! Izzat seeks to combine U-M talent to put on creative and expressive performances on stage.</p>\r\n",
-        "Summary": "Michigan Izzat is the co-ed Bollywood Fusion dance team at the University of Michigan! Izzat seeks to combine U-M talent to put on creative and expressive performances on stage.\r\n",
+        "Name": "Michigan Israel Public Affairs Committee",
+        "ShortName": "MIPAC",
+        "WebsiteKey": "mipac",
+        "ProfilePicture": "70845e66-036c-482b-9adf-897a841d1e4267e129da-b819-41f5-9c9d-e855ed27d095.png",
+        "Description": "<p>The Michigan Israel Public Affairs Committee is a group of students who advocate to strengthen the US-Israel relationship through political means. MIPAC will, several times over the course of the year, lobby members of Congress to support policy for the common good of the United States and Israel. Additionally, during election cycle, MIPAC members will each commit to campaigning for pro-Israel members of Congress.</p>",
+        "Summary": "The Michigan Israel Public Affairs Committee is a political organization dedicated to maintaining and strengthening the US-Israel relationship.\r\n",
         "CategoryIds": [
-            "3650",
-            "3651",
-            "18515",
+            "3657",
+            "18506",
+            "18511",
+            "18516",
             "18518",
-            "18525"
+            "18519",
+            "18520",
+            "18521"
         ],
         "CategoryNames": [
-            "Creative & Performing Arts",
-            "Cultural/Ethnic",
-            "Time Commitment: 16+ hours/week",
+            "Religious/Spiritual",
+            "Cost: $0/Semester",
+            "Time Commitment: 1-2 hours/week",
+            "Joining Process: Academic Standing",
             "Joining Process: Audition",
-            "Cost: $251-$500/Semester"
+            "Joining Process: Automatic Acceptance",
+            "Joining Process: Interview",
+            "Joining Process: Meeting/Social Attendance"
         ],
         "Status": "Active",
         "Visibility": "Public"
@@ -25015,6 +24860,27 @@
     },
     {
         "@search.score": 1.0,
+        "Id": "402964",
+        "InstitutionId": 66,
+        "ParentOrganizationId": 62529,
+        "BranchId": 62529,
+        "Name": "Michigan Medicine Football Club",
+        "ShortName": "MMFC",
+        "WebsiteKey": "michiganmedicinefootballclub",
+        "ProfilePicture": "960581f1-5e94-47d1-b3f9-784334e6c4630e3bc059-16b3-49e0-8cdf-cc5ebc2986e1.jpg",
+        "Description": "<p><span style=\"font-weight: 400;\">The Michigan Medicine Football Club (MMFC) unites Michigan Medicine fellows interested in playing soccer competitively and for fun. It organizes competitions between the other professional schools and organizes practices and pick-up soccer.</span></p>",
+        "Summary": "MMFC brings together individuals from Michigan Medicine to play the beautiful sport of soccer",
+        "CategoryIds": [
+            "3660"
+        ],
+        "CategoryNames": [
+            "Sport Clubs & Recreation"
+        ],
+        "Status": "Active",
+        "Visibility": "Public"
+    },
+    {
+        "@search.score": 1.0,
         "Id": "67303",
         "InstitutionId": 66,
         "ParentOrganizationId": 62529,
@@ -25133,7 +24999,7 @@
         "ShortName": "MMC",
         "WebsiteKey": "mmc",
         "ProfilePicture": "30cdb263-da08-42b0-8dc7-53667be2d614486c8410-f694-44c1-9011-fd45cf7a384f.png",
-        "Description": "<p><strong>For those interested in joining Fall 2025: follow our&nbsp;</strong><strong>Instagram @michiganmuscleclub and be on the lookout for our Mass Meeting. If the Mass Meeting date has passed and you are interested in joining, please contact jimaroni@umich.edu. You may also direct any questions to this email.</strong></p>\r\n<p>Michigan Muscle Club (MMC)&nbsp;<span style=\"font-weight: 400;\">is a UofM&nbsp;fitness organization dedicated to fostering community among students who share <strong>fitness/building muscle</strong> as an interest. We&nbsp;encourage any level of experience to join and push an inclusive agenda.</span></p>\r\n<p><span style=\"font-weight: 400;\">MMC provides students with opportunities to connect with fitness-minded individuals. We primarily host social events (ex: speed dating, field day) and workshops where we come together to discuss a selected topic (ex: Basics, Splits, Nutrition, Bodybuilding, Calisthenics, etc.). Whether you are a seasoned gym-goer or never stepped foot in a gym, you will get something out of our workshops!</span></p>\r\n<p><span style=\"font-weight: 400;\">Aside from events, we run a Big/Little program for those looking for mentorship and connections. We also host challenges throughout the year. Our most popular one is the 7 AM challenge, where morning birds can get in teams and try to clock in the most workouts.</span></p>\r\n<p><span style=\"font-weight: 400;\">Learn more at&nbsp;our<strong> Mass Meeting </strong> (Date/location TBA) or contact jimaroni@umich.edu if that date has passed!</span></p>",
+        "Description": "<p><strong>For those interested in joining Winter 2026: follow our&nbsp;</strong><strong>Instagram @michiganmuscleclub and be on the lookout for our Mass Meeting. If the Mass Meeting date has passed and you are interested in joining, please contact joshuagi@umich.edu. You may also direct any questions to this email.</strong></p>\r\n<p>Michigan Muscle Club (MMC)&nbsp;<span style=\"font-weight: 400;\">is a UofM&nbsp;fitness organization dedicated to fostering community among students who share <strong>fitness/building muscle</strong> as an interest. We&nbsp;encourage any level of experience to join and push an inclusive agenda.</span></p>\r\n<p><span style=\"font-weight: 400;\">MMC provides students with opportunities to connect with fitness-minded individuals. We primarily host social events (ex: speed dating, field day) and workshops where we come together to discuss a selected topic (ex: Basics, Splits, Nutrition, Bodybuilding, Calisthenics, etc.). Whether you are a seasoned gym-goer or never stepped foot in a gym, you will get something out of our workshops!</span></p>\r\n<p><span style=\"font-weight: 400;\">Aside from events, we run a Big/Little program for those looking for mentorship and connections. We also host challenges throughout the year. Our most popular one is the 7 AM challenge, where morning birds can get in teams and try to clock in the most workouts.</span></p>\r\n<p><span style=\"font-weight: 400;\">Learn more at&nbsp;our<strong> Mass Meeting </strong> (Date/location TBA) or contact joshuagi@umich.edu if that date has passed!</span></p>",
         "Summary": "Michigan Muscle Club (MMC) is a student-run organization composed of beginners and avid gym-goers alike. Our focus is to bring together students interested in fitness and provide cutting-edge easy-to-digest information for you to make your best gains.",
         "CategoryIds": [
             "3655",
@@ -26264,6 +26130,31 @@
     },
     {
         "@search.score": 1.0,
+        "Id": "422025",
+        "InstitutionId": 66,
+        "ParentOrganizationId": 62529,
+        "BranchId": 62529,
+        "Name": "Michigan Snowcial Club",
+        "ShortName": null,
+        "WebsiteKey": "snowcial",
+        "ProfilePicture": "11a15443-6ffb-484f-b570-0a7522fbfac28d7100a6-26fd-40de-a32b-5a4f612c84af.jpeg",
+        "Description": "<p><span style=\"font-weight: 400;\">Michigan Snowcial Club is dedicated to promoting wellness, community, and adventure by introducing medical students to the joy of Michigan&rsquo;s winter season. Through iceskating, skiing, snowboarding, sledding, tubing, and other outdoor activities, we aim to encourage physical activity, build social connection, and provide an accessible, inclusive environment for students, especially those new to winter sports, to challenge themselves, recharge, and embrace the unique spirit of winter in Michigan.</span></p>",
+        "Summary": "Michigan Snowcial Club is dedicated to promoting wellness, community, and adventure by introducing medical students to a diversity of outdoor winter activities.",
+        "CategoryIds": [
+            "3654",
+            "3655",
+            "3660"
+        ],
+        "CategoryNames": [
+            "Graduate/Professional",
+            "Health & Wellness",
+            "Sport Clubs & Recreation"
+        ],
+        "Status": "Active",
+        "Visibility": "Public"
+    },
+    {
+        "@search.score": 1.0,
         "Id": "372439",
         "InstitutionId": 66,
         "ParentOrganizationId": 62529,
@@ -26735,7 +26626,7 @@
         "ShortName": "UMTKD",
         "WebsiteKey": "umtkd",
         "ProfilePicture": "07b8cdaa-f775-460a-9cec-f13eccafac2b30dd4153-e933-41d7-92e1-1d53ddd443c0.jpeg",
-        "Description": "<p>Taekwondo (\ud0dc\uad8c\ub3c4) is a traditional Korean martial art known for its fluid footwork and the development of fast, fancy, and explosive kicks. Taekwondo has been an official Olympic sport since 2000, has recently been the cause of global sensation through dynamic demonstrations on TV shows like America's Got Talent, and is the most widely practiced martial art in the world (70+ million in over 200+ countries)!!</p>\r\n<p><span style=\"font-weight: 400;\">The Michigan Taekwondo Club (UMTKD) welcomes people of ALL levels of experience: anyone from black belts who have been competing their entire lives, former trainees a few years out of practice, those coming from other martial arts backgrounds, all the way to brand-new first-timers with no athletic experience at all!! NO PRIOR EXPERIENCE IS NECESSARY. BEGINNERS ARE WELCOME!!</span></p>\r\n<p><span style=\"font-weight: 400;\">We are a member school of the Eastern Collegiate Taekwondo Conference (ECTC) and while competing is NOT MANDATORY (though highly encouraged), we frequently send members to compete at MIT, Brown, Cornell, Princeton, etc. against Ivy League- and other East coast-based schools in both sparring (<em>kyorugi</em>) and forms (<em>poomsae</em>) events. We compete following the WT (World Taekwondo) or Olympic-style rules.</span></p>\r\n<div class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_page\" title=\"Page 5\">\r\n<div class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_section\">\r\n<div class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_layoutArea\">\r\n<div class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_column\">\r\n<p>For more information, check out our website: <a href=\"http://umtaekwondo.club\"> http://umtaekwondo.club</a></p>\r\n<p><a href=\"https://youtu.be/oBuSXw0BNU4\">https://youtu.be/oBuSXw0BNU4</a></p>\r\n</div>\r\n</div>\r\n</div>\r\n</div>",
+        "Description": "<p>Taekwondo (\ud0dc\uad8c\ub3c4) is a traditional Korean martial art known for its fluid footwork and the development of fast, fancy, and explosive kicks. Taekwondo has been an official Olympic sport since 2000, has recently been the cause of global sensation through dynamic demonstrations on TV shows like America's Got Talent, and is the most widely practiced martial art in the world (70+ million in over 200+ countries)!!</p>\r\n<p>&nbsp;</p>\r\n<p><span style=\"font-weight: 400;\">The Michigan Taekwondo Club (UMTKD) welcomes people of ALL levels of experience: anyone from black belts who have been competing their entire lives, former trainees a few years out of practice, those coming from other martial arts backgrounds, all the way to brand-new first-timers with no athletic experience at all!! NO PRIOR EXPERIENCE IS NECESSARY. BEGINNERS ARE WELCOME!!</span></p>\r\n<p>&nbsp;</p>\r\n<p><span style=\"font-weight: 400;\">We are a member school of the Eastern Collegiate Taekwondo Conference (ECTC) and while competing is NOT MANDATORY (though highly encouraged), we frequently send members to compete at MIT, Brown, Cornell, Princeton, etc. against Ivy League and other East coast-based schools in both sparring (<em>kyorugi</em>) and forms (<em>poomsae</em>) events. We compete following the WT (World Taekwondo) or Olympic-style rules.</span></p>\r\n<div class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_page\" title=\"Page 5\">\r\n<div class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_section\">\r\n<div class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_layoutArea\">\r\n<div class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_column\">\r\n<p>&nbsp;</p>\r\n<p>For more information, check out our website: <a href=\"http://umtaekwondo.club\"> http://umtaekwondo.club</a></p>\r\n<p><a href=\"https://youtu.be/oBuSXw0BNU4\">https://youtu.be/oBuSXw0BNU4</a></p>\r\n</div>\r\n</div>\r\n</div>\r\n</div>",
         "Summary": "Michigan Taekwondo (UMTKD), functions both as a Taekwondo dojang as well as a competitive collegiate team. We are a part of the Eastern Collegiate Taekwondo Conference (ECTC). NO PRIOR EXPERIENCE NECESSARY. BEGINNERS ARE WELCOME!! http://umtaekwondo.club",
         "CategoryIds": [
             "3655",
@@ -28716,6 +28607,45 @@
     },
     {
         "@search.score": 1.0,
+        "Id": "78734",
+        "InstitutionId": 66,
+        "ParentOrganizationId": 62529,
+        "BranchId": 62529,
+        "Name": "Muslim Business Students' Association",
+        "ShortName": "MBSA",
+        "WebsiteKey": "mbsa",
+        "ProfilePicture": "098f6626-2e69-497b-9ad0-97bbeb91ac87126f13b7-a5f4-4c26-97ee-bf5fd74b136e.png",
+        "Description": "<div>MBSA is a career-oriented community of Muslim students interested in the various areas of business. We focus on networking, socials,&nbsp;application assistance, interview preparation, treks to firms, analyst classes, and more.</div>",
+        "Summary": "A student organization dedicated to preparing pre-business Muslim students for business school and Muslim students interested in business for a prosperous career through networking, workshops, treks, and analyst training programs.",
+        "CategoryIds": [
+            "3649",
+            "3651",
+            "3654",
+            "3657",
+            "18506",
+            "18512",
+            "18517",
+            "18519",
+            "18521",
+            "18522"
+        ],
+        "CategoryNames": [
+            "Academic/Honor Societies",
+            "Cultural/Ethnic",
+            "Graduate/Professional",
+            "Religious/Spiritual",
+            "Cost: $0/Semester",
+            "Time Commitment: 3-5 hours/week",
+            "Joining Process: Application",
+            "Joining Process: Automatic Acceptance",
+            "Joining Process: Meeting/Social Attendance",
+            "Joining Process: Rush Process"
+        ],
+        "Status": "Active",
+        "Visibility": "Public"
+    },
+    {
+        "@search.score": 1.0,
         "Id": "71524",
         "InstitutionId": 66,
         "ParentOrganizationId": 62529,
@@ -28855,6 +28785,29 @@
             "Health & Wellness",
             "Religious/Spiritual",
             "Service/Service Learning"
+        ],
+        "Status": "Active",
+        "Visibility": "Public"
+    },
+    {
+        "@search.score": 1.0,
+        "Id": "416383",
+        "InstitutionId": 66,
+        "ParentOrganizationId": 62529,
+        "BranchId": 62529,
+        "Name": "Naming All the Flowers I Could ",
+        "ShortName": "NAF ",
+        "WebsiteKey": "naf",
+        "ProfilePicture": "a59cb4ea-3dbb-4874-9aee-87f0ed3e4f3abba1fff8-22a0-495d-b8c6-82c735482579.png",
+        "Description": "<p><span style=\"font-weight: 400;\">Naming All the Flowers I Could is a multimedia production company centering queer and female artists&nbsp;</span><span style=\"font-weight: 400;\">focusing on narrative works,&nbsp;</span><span style=\"font-weight: 400;\">specifically film, theater, and games. We focus on giving opportunities to queer and female artists without putting them in a box. We work closely with collaborating artists to produce their original work.&nbsp;&nbsp;</span></p>",
+        "Summary": "Naming All the Flowers I Could is a multimedia production company centering queer and female artists&nbsp;focusing on narrative works,&nbsp;specifically film, theater, and games.\r\n",
+        "CategoryIds": [
+            "3650",
+            "4568"
+        ],
+        "CategoryNames": [
+            "Creative & Performing Arts",
+            "Gender/Sexuality"
         ],
         "Status": "Active",
         "Visibility": "Public"
@@ -29407,7 +29360,7 @@
         "ShortName": "NIUG",
         "WebsiteKey": "rossnetimpactug",
         "ProfilePicture": "89c5ed68-5149-48ca-8506-0b2424e1a4d64b58c74e-4985-408a-a9e8-2b1c3685b942.jpg",
-        "Description": "\r\n<div class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_section\">\r\n<p class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_orgmission\">We are a collaborative, engaging club of diverse undergraduate students passionate about the intersection of business with social impact and sustainability. We hold weekly educational,\r\n professional development, and community-building events for our members and host university-wide symposiums and panels.</p>\r\n<p class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_orgmission\">Co-Presidents 2025: Carlie Peterman (pcarlie@umich.edu) and Taylor Peterson (taylorvp@umich.edu)</p>\r\n<p class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_orgmission\">For any questions reach out to&nbsp;the Co-Presidents or Eboard (niugboard@umich.edu)</p>\r\n<p class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_orgmission\">Website: https://www.netimpactumich.com/&nbsp;</p>\r\n</div>\r\n",
+        "Description": "<div class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_section\">\r\n<p class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_orgmission\">We are a collaborative, engaging club of diverse undergraduate students passionate about the intersection of business with social impact and sustainability. We hold weekly educational, professional development, and community-building events for our members and host university-wide symposiums and panels.</p>\r\n<p class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_orgmission\">Co-Presidents 2025: Thomas Danly (tgdanly@umich.edu) and Gia Verma (giaverma@umich.edu)</p>\r\n<p class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_orgmission\">For any questions reach out to&nbsp;the Co-Presidents or Eboard (niugboard@umich.edu)</p>\r\n<p class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_orgmission\">Website: https://www.netimpactumich.com/&nbsp;</p>\r\n</div>",
         "Summary": "We are a club of diverse undergraduate students passionate about the intersection of business, social impact and sustainability. We hold weekly educational, professional development, and community-building events for our members.",
         "CategoryIds": [
             "3648",
@@ -29829,7 +29782,7 @@
         "ParentOrganizationId": 62529,
         "BranchId": 62529,
         "Name": "Nu Rho Psi",
-        "ShortName": null,
+        "ShortName": "",
         "WebsiteKey": "nurhopsi",
         "ProfilePicture": "f184e4c5-c775-4bf4-8a62-5b8893aee418c9228e7e-1a86-479a-81f1-f0a8a3953534.jpg",
         "Description": "<p><span style=\"font-weight: 400;\">The purpose of Nu Rho Psi shall be to: (1) encourage professional interest and excellence in scholarship, particularly in neuroscience; (2) award recognition to students who have achieved such excellence in scholarship; (3) advance the discipline of neuroscience; (4) encourage intellectual and social interaction between students, faculty, and professionals in neuroscience and related fields; (5) promote career development in neuroscience and related fields; (6) increase public awareness of neuroscience and its benefits for the individual and society; and (7) encourage service to the community.&nbsp;</span></p>\r\n<p><span style=\"font-weight: 400;\">Through activities and workshops on campus, the chapter aims to spread public awareness about the field of neuroscience, and the ways it can benefit the individual and society. Particularly, the chapter will promote research and help motivate educational and professional development between students, faculty, and professionals in neuroscience. The chapter will also be involved with community outreach by connecting with local schools, hospitals, and community groups.</span></p>",
@@ -30192,7 +30145,7 @@
         "ShortName": "OOO, Tri-O, Tri Omega, Tri-Omega, Trio",
         "WebsiteKey": "ooo",
         "ProfilePicture": "a2a219da-295c-4101-8c83-a6315554ca2f44e986c6-7f04-464e-87c3-eb01146c1761.jpeg",
-        "Description": "<div class=\"x_x_x_x_x_x_x_x_x_x_x_flex-shrink-0 x_x_x_x_x_x_x_x_x_x_x_flex x_x_x_x_x_x_x_x_x_x_x_flex-col x_x_x_x_x_x_x_x_x_x_x_relative x_x_x_x_x_x_x_x_x_x_x_items-end\">\r\n<div>\r\n<div class=\"x_x_x_x_x_x_x_x_x_x_x_pt-0\">\r\n<div class=\"x_x_x_x_x_x_x_x_x_x_x_gizmo-bot-avatar x_x_x_x_x_x_x_x_x_x_x_flex x_x_x_x_x_x_x_x_x_x_x_h-8 x_x_x_x_x_x_x_x_x_x_x_w-8 x_x_x_x_x_x_x_x_x_x_x_items-center x_x_x_x_x_x_x_x_x_x_x_justify-center x_x_x_x_x_x_x_x_x_x_x_overflow-hidden x_x_x_x_x_x_x_x_x_x_x_rounded-full\">\r\n<div class=\"x_x_x_x_x_x_x_x_x_x_x_relative x_x_x_x_x_x_x_x_x_x_x_p-1 x_x_x_x_x_x_x_x_x_x_x_rounded-sm x_x_x_x_x_x_x_x_x_x_x_flex x_x_x_x_x_x_x_x_x_x_x_items-center x_x_x_x_x_x_x_x_x_x_x_justify-center x_x_x_x_x_x_x_x_x_x_x_bg-token-main-surface-primary x_x_x_x_x_x_x_x_x_x_x_text-token-text-primary x_x_x_x_x_x_x_x_x_x_x_h-8 x_x_x_x_x_x_x_x_x_x_x_w-8\">OOO is a social organization known as a \"Wellness Fraternity\" or \"Mental Health Fraternity,\" with the core mission of highlighting the importance of mental health alongside rigorous academic pursuits. We focus on professional development, charitable activities, community outreach, and social events. OOO provides members with opportunities to de-stress, engage in personal and professional growth, and prepare skills for managing their mental health and wellness in a post-college setting. Through our events, members will develop leadership, interpersonal, and interview skills while learning mental health coping strategies to ease the pressures of schoolwork and career planning.</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"x_x_x_x_x_x_x_x_x_x_x_group/conversation-turn x_x_x_x_x_x_x_x_x_x_x_relative x_x_x_x_x_x_x_x_x_x_x_flex x_x_x_x_x_x_x_x_x_x_x_w-full x_x_x_x_x_x_x_x_x_x_x_min-w-0 x_x_x_x_x_x_x_x_x_x_x_flex-col x_x_x_x_x_x_x_x_x_x_x_agent-turn\">\r\n<div class=\"x_x_x_x_x_x_x_x_x_x_x_flex-col x_x_x_x_x_x_x_x_x_x_x_gap-1 x_x_x_x_x_x_x_x_x_x_x_md:gap-3\">\r\n<div class=\"x_x_x_x_x_x_x_x_x_x_x_flex x_x_x_x_x_x_x_x_x_x_x_max-w-full x_x_x_x_x_x_x_x_x_x_x_flex-col x_x_x_x_x_x_x_x_x_x_x_flex-grow\">\r\n<div class=\"x_x_x_x_x_x_x_x_x_x_x_min-h-8 x_x_x_x_x_x_x_x_x_x_x_text-message x_x_x_x_x_x_x_x_x_x_x_flex x_x_x_x_x_x_x_x_x_x_x_w-full x_x_x_x_x_x_x_x_x_x_x_flex-col x_x_x_x_x_x_x_x_x_x_x_items-end x_x_x_x_x_x_x_x_x_x_x_gap-2 x_x_x_x_x_x_x_x_x_x_x_whitespace-normal x_x_x_x_x_x_x_x_x_x_x_break-words x_x_x_x_x_x_x_x_x_x_x_[.text-message+&amp;]:mt-5\" dir=\"auto\">\r\n<div class=\"x_x_x_x_x_x_x_x_x_x_x_flex x_x_x_x_x_x_x_x_x_x_x_w-full x_x_x_x_x_x_x_x_x_x_x_flex-col x_x_x_x_x_x_x_x_x_x_x_gap-1 x_x_x_x_x_x_x_x_x_x_x_empty:hidden x_x_x_x_x_x_x_x_x_x_x_first:pt-[3px]\">\r\n<div class=\"x_x_x_x_x_x_x_x_x_x_x_markdown x_x_x_x_x_x_x_x_x_x_x_prose x_x_x_x_x_x_x_x_x_x_x_w-full x_x_x_x_x_x_x_x_x_x_x_break-words x_x_x_x_x_x_x_x_x_x_x_dark:prose-invert x_x_x_x_x_x_x_x_x_x_x_dark\">\r\n<p>&nbsp;</p>\r\n<p>Our mission is to offer students at the University of Michigan a supportive social community where they can form lasting friendships, thrive academically, and smoothly integrate into both the university and OOO kinship. We aim to enrich our members&rsquo; lives by demonstrating that academic excellence and mental well-being can coexist. Join our family and learn that academic success does <em>not</em> come at the cost of self-care.</p>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>",
+        "Description": "<div class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_flex-shrink-0 x_x_x_x_x_x_x_x_x_x_x_x_x_flex x_x_x_x_x_x_x_x_x_x_x_x_x_flex-col x_x_x_x_x_x_x_x_x_x_x_x_x_relative x_x_x_x_x_x_x_x_x_x_x_x_x_items-end\">\r\n<div>\r\n<div class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_pt-0\">\r\n<div class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_gizmo-bot-avatar x_x_x_x_x_x_x_x_x_x_x_x_x_flex x_x_x_x_x_x_x_x_x_x_x_x_x_h-8 x_x_x_x_x_x_x_x_x_x_x_x_x_w-8 x_x_x_x_x_x_x_x_x_x_x_x_x_items-center x_x_x_x_x_x_x_x_x_x_x_x_x_justify-center x_x_x_x_x_x_x_x_x_x_x_x_x_overflow-hidden x_x_x_x_x_x_x_x_x_x_x_x_x_rounded-full\">\r\n<div class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_relative x_x_x_x_x_x_x_x_x_x_x_x_x_p-1 x_x_x_x_x_x_x_x_x_x_x_x_x_rounded-sm x_x_x_x_x_x_x_x_x_x_x_x_x_flex x_x_x_x_x_x_x_x_x_x_x_x_x_items-center x_x_x_x_x_x_x_x_x_x_x_x_x_justify-center x_x_x_x_x_x_x_x_x_x_x_x_x_bg-token-main-surface-primary x_x_x_x_x_x_x_x_x_x_x_x_x_text-token-text-primary x_x_x_x_x_x_x_x_x_x_x_x_x_h-8 x_x_x_x_x_x_x_x_x_x_x_x_x_w-8\">OOO is a social organization known as a \"Wellness Fraternity\" or \"Mental Health Fraternity,\" with the core mission of highlighting the importance of mental health alongside rigorous academic pursuits. We focus on professional development, charitable activities, community outreach, and social events. OOO provides members with opportunities to de-stress, engage in personal and professional growth, and prepare skills for managing their mental health and wellness in a post-college setting. Through our events, members will develop leadership, interpersonal, and interview skills while learning mental health coping strategies to ease the pressures of schoolwork and career planning.</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_group/conversation-turn x_x_x_x_x_x_x_x_x_x_x_x_x_relative x_x_x_x_x_x_x_x_x_x_x_x_x_flex x_x_x_x_x_x_x_x_x_x_x_x_x_w-full x_x_x_x_x_x_x_x_x_x_x_x_x_min-w-0 x_x_x_x_x_x_x_x_x_x_x_x_x_flex-col x_x_x_x_x_x_x_x_x_x_x_x_x_agent-turn\">\r\n<div class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_flex-col x_x_x_x_x_x_x_x_x_x_x_x_x_gap-1 x_x_x_x_x_x_x_x_x_x_x_x_x_md:gap-3\">\r\n<div class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_flex x_x_x_x_x_x_x_x_x_x_x_x_x_max-w-full x_x_x_x_x_x_x_x_x_x_x_x_x_flex-col x_x_x_x_x_x_x_x_x_x_x_x_x_flex-grow\">\r\n<div class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_min-h-8 x_x_x_x_x_x_x_x_x_x_x_x_x_text-message x_x_x_x_x_x_x_x_x_x_x_x_x_flex x_x_x_x_x_x_x_x_x_x_x_x_x_w-full x_x_x_x_x_x_x_x_x_x_x_x_x_flex-col x_x_x_x_x_x_x_x_x_x_x_x_x_items-end x_x_x_x_x_x_x_x_x_x_x_x_x_gap-2 x_x_x_x_x_x_x_x_x_x_x_x_x_whitespace-normal x_x_x_x_x_x_x_x_x_x_x_x_x_break-words x_x_x_x_x_x_x_x_x_x_x_x_x_[.text-message+&amp;]:mt-5\" dir=\"auto\">\r\n<div class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_flex x_x_x_x_x_x_x_x_x_x_x_x_x_w-full x_x_x_x_x_x_x_x_x_x_x_x_x_flex-col x_x_x_x_x_x_x_x_x_x_x_x_x_gap-1 x_x_x_x_x_x_x_x_x_x_x_x_x_empty:hidden x_x_x_x_x_x_x_x_x_x_x_x_x_first:pt-[3px]\">\r\n<div class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_markdown x_x_x_x_x_x_x_x_x_x_x_x_x_prose x_x_x_x_x_x_x_x_x_x_x_x_x_w-full x_x_x_x_x_x_x_x_x_x_x_x_x_break-words x_x_x_x_x_x_x_x_x_x_x_x_x_dark:prose-invert x_x_x_x_x_x_x_x_x_x_x_x_x_dark\">\r\n<p>&nbsp;</p>\r\n<p>Our mission is to offer students at the University of Michigan a supportive social community where they can form lasting friendships, thrive academically, and smoothly integrate into both the university and OOO kinship. We aim to enrich our members&rsquo; lives by demonstrating that academic excellence and mental well-being can coexist. Join our family and learn that academic success does <em>not</em> come at the cost of self-care.</p>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>",
         "Summary": "OOO is the premier Mental Health Fraternity on campus, dedicated to offering students an exceptional social community where they can build friendships, excel academically, and enhance their professional growth, all while prioritizing mental well-being.",
         "CategoryIds": [
             "3648",
@@ -31100,31 +31053,6 @@
     },
     {
         "@search.score": 1.0,
-        "Id": "341037",
-        "InstitutionId": 66,
-        "ParentOrganizationId": 62529,
-        "BranchId": 62529,
-        "Name": "Palestinian Empowerment Foundation",
-        "ShortName": "PEF",
-        "WebsiteKey": "pef",
-        "ProfilePicture": "64f890e9-2a69-4796-a42a-ae8e800f432af63ca850-4211-436d-bae0-be520c946e46.jpeg",
-        "Description": "<p>The Palestinian Empowerment Foundation stands in solidarity with Palestine and is dedicated to promoting the right of the Palestinian people to self-determination, spreading awareness about Palestine and raising funds to uplift Palestinian students through the power of education.</p>",
-        "Summary": "The Palestinian Empowerment Foundation stands in solidarity with Palestine and is dedicated to spreading awareness and promoting the right of the Palestinian people to self-determination.",
-        "CategoryIds": [
-            "3648",
-            "3654",
-            "3658"
-        ],
-        "CategoryNames": [
-            "Activism",
-            "Graduate/Professional",
-            "Service/Service Learning"
-        ],
-        "Status": "Active",
-        "Visibility": "Public"
-    },
-    {
-        "@search.score": 1.0,
         "Id": "412497",
         "InstitutionId": 66,
         "ParentOrganizationId": 62529,
@@ -31794,6 +31722,41 @@
     },
     {
         "@search.score": 1.0,
+        "Id": "388266",
+        "InstitutionId": 66,
+        "ParentOrganizationId": 62529,
+        "BranchId": 62529,
+        "Name": "Phi Beta Professional Fraternity",
+        "ShortName": "Phi Beta",
+        "WebsiteKey": "phibeta",
+        "ProfilePicture": "ee1e2292-4621-403d-99cd-f46b6f55a6d84ab49e00-0138-44d9-8f9a-f7c7d7960404.png",
+        "Description": "<p>The object of the Phi Beta Fraternity shall be to promote the best in creative and performing arts; foster service in these arts within the collegiate and community area; advance the members both intellectually and professionally; develop the highest type of individual expression.</p>",
+        "Summary": "The object of the Phi Beta Fraternity shall be to promote the best in creative and performing arts; foster service in these arts; advance the members both intellectually and professionally; develop the highest type of individual expression.\r\n",
+        "CategoryIds": [
+            "3649",
+            "3650",
+            "18512",
+            "18516",
+            "18517",
+            "18520",
+            "18522",
+            "18523"
+        ],
+        "CategoryNames": [
+            "Academic/Honor Societies",
+            "Creative & Performing Arts",
+            "Time Commitment: 3-5 hours/week",
+            "Joining Process: Academic Standing",
+            "Joining Process: Application",
+            "Joining Process: Interview",
+            "Joining Process: Rush Process",
+            "Cost: $21-$100/Semester"
+        ],
+        "Status": "Active",
+        "Visibility": "Public"
+    },
+    {
+        "@search.score": 1.0,
         "Id": "64359",
         "InstitutionId": 66,
         "ParentOrganizationId": 62529,
@@ -31927,6 +31890,47 @@
             "Health & Wellness",
             "Service/Service Learning",
             "Time Commitment: 3-5 hours/week",
+            "Joining Process: Academic Standing",
+            "Joining Process: Application",
+            "Joining Process: Interview",
+            "Joining Process: Meeting/Social Attendance",
+            "Joining Process: Rush Process",
+            "Cost: $101-$250/Semester"
+        ],
+        "Status": "Active",
+        "Visibility": "Public"
+    },
+    {
+        "@search.score": 1.0,
+        "Id": "115079",
+        "InstitutionId": 66,
+        "ParentOrganizationId": 62529,
+        "BranchId": 62529,
+        "Name": "Phi Epsilon Kappa",
+        "ShortName": "PEK",
+        "WebsiteKey": "phiepsilonkappa",
+        "ProfilePicture": "5776877d-98f5-4e95-9c26-961d620e921db5e54069-9b48-478c-a902-846dcd28ab12.png",
+        "Description": "<p>Phi Epsilon Kappa&nbsp;(PEK) is a professional co-ed fraternity for Kinesiology students. The focus of this organization is to enhance the awareness, benefit, and appreciation for health and fitness, dance, athletic training, exercise science, sport management, and related fields.</p>\r\n<p>PEK provides students with leadership opportunities, access to knowledgeable upperclassmen, networking opportunities, and a lasting brotherhood. Members of this fraternity are provided with a unique opportunity to work and interact with peers in all areas of Kinesiology, each having different professional aspirations and experiences to share from their time at the University of Michigan.</p>\r\n<div class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_grammarly-disable-indicator\">&nbsp;</div>",
+        "Summary": "Phi Epsilon Kappa is a professional kinesiology fraternity for students pursuing careers in Movement Science, Applied Exercise Science, and Sport Management.\r\n",
+        "CategoryIds": [
+            "3649",
+            "3654",
+            "3655",
+            "3658",
+            "18511",
+            "18516",
+            "18517",
+            "18520",
+            "18521",
+            "18522",
+            "18524"
+        ],
+        "CategoryNames": [
+            "Academic/Honor Societies",
+            "Graduate/Professional",
+            "Health & Wellness",
+            "Service/Service Learning",
+            "Time Commitment: 1-2 hours/week",
             "Joining Process: Academic Standing",
             "Joining Process: Application",
             "Joining Process: Interview",
@@ -33071,7 +33075,7 @@
         "Name": "Project Resurge",
         "ShortName": null,
         "WebsiteKey": "projectresurge",
-        "ProfilePicture": "6ac529ea-58db-4d82-9924-cea9877b394362f548e6-0149-40ed-974e-6a9a9405d60f.png",
+        "ProfilePicture": "ee1f3861-060e-4c2f-bf67-cd9d8d6ac81881899bbe-faba-4456-9921-28ef6f61ba2e.png",
         "Description": "<p>Project Resurge is a federally approved 501(c)(3) nonprofit organization committed to advancing global health equity through sustainable medical redistribution and humanitarian action. Founded on the belief that quality healthcare should never be limited by geography, conflict, or socioeconomic status, Project Resurge works to recover surplus medical supplies and devices from hospitals, clinics, and manufacturers throughout the United States and redirect them to underserved communities across the world.</p>\r\n<p>Each year, millions of dollars&rsquo; worth of perfectly usable medical materials are discarded due to oversupply, short-dated expiration, or minor packaging imperfections. Meanwhile, countless healthcare facilities abroad operate with chronic shortages of essential tools needed to provide safe, effective care. Project Resurge bridges this gap by transforming potential medical waste into life-saving resources, supporting clinics, refugee health programs, and global medical missions in regions facing crisis, displacement, or systemic resource scarcity.</p>\r\n<p>We partner with hospitals, health systems, student organizations, and community volunteers to collect, sort, and quality-check all donated supplies before shipping them to verified international recipient organizations. Our recent efforts have supported refugee health initiatives and medical missions in disaster-affected and war-torn areas, including direct shipments to communities impacted by the ongoing crisis in Syria.</p>\r\n<p>In addition to medical redistribution, Project Resurge leads complementary humanitarian initiatives &mdash; such as fundraisers, awareness campaigns, educational events, and community-driven projects &mdash; that strengthen health access and mobilize broader support for vulnerable populations worldwide.</p>\r\n<p>Project Resurge is more than a supply-recovery program; it is a global movement of students, physicians, and partners dedicated to reimagining the lifecycle of medical resources and expanding healthcare access for those who need it most.</p>",
         "Summary": "A federally approved 501(c)(3) nonprofit dedicated to bridging healthcare gaps globally and locally. Our mission is to recover surplus medical supplies and devices and redirect them to free clinics and nonprofits serving underserved communities.",
         "CategoryIds": [
@@ -34226,7 +34230,7 @@
         "ShortName": "Rec Pickleball",
         "WebsiteKey": "recpickleballumich",
         "ProfilePicture": "33b27de9-3863-461b-9a4f-549559309ec553911bae-d53f-42d6-9e10-79ab585eda07.jpeg",
-        "Description": "\r\n<p>As Pickleball continues to gain popularity, there is a significant interest in fostering a community of enthusiastic players while addressing the financial barriers that some students may face. Through this organization, we aim to implement an affordable\r\n membership fee to enable students to engage regularly with their peers and cultivate enduring friendships rooted in a mutual passion for the sport. Our mission is to enhance accessibility to Pickleball by providing transportation to facilities for members\r\n in need and to promote an inclusive environment characterized by competitive play, friendly matches, and social events.</p>\r\n",
+        "Description": "<p>As Pickleball continues to gain popularity, there is a significant interest in fostering a community of enthusiastic players while addressing the financial barriers that some students may face. Through this organization, we aim to implement an affordable membership fee to enable students to engage regularly with their peers and cultivate enduring friendships rooted in a mutual passion for the sport. Our mission is to enhance accessibility to Pickleball by providing transportation to facilities for members in need and to promote an inclusive environment characterized by competitive play, friendly matches, and social events.</p>",
         "Summary": "Our goals are to foster community, overcome financial barriers, and enable regular student engagement by enhancing accessibility and promoting an inclusive environment of competition, fun, and social events centered around the sport of pickleball.",
         "CategoryIds": [
             "3655",
@@ -34341,31 +34345,6 @@
             "3658"
         ],
         "CategoryNames": [
-            "Religious/Spiritual",
-            "Service/Service Learning"
-        ],
-        "Status": "Active",
-        "Visibility": "Public"
-    },
-    {
-        "@search.score": 1.0,
-        "Id": "290926",
-        "InstitutionId": 66,
-        "ParentOrganizationId": 62529,
-        "BranchId": 62529,
-        "Name": "Reformed University Fellowship",
-        "ShortName": "RUF",
-        "WebsiteKey": "ruf",
-        "ProfilePicture": "ea264aca-c4ca-410e-a8af-ade86ae12ff6fa9d66c4-bb6a-40c3-a584-1c27f242c47d.png",
-        "Description": "<p>RUF is a Christian ministry for the glory of God and the good of UM. We are learning how to love God, love ourselves, love other people and love the University of Michigan. Learn more <a href=\"https://linktr.ee/rufmichigan\">here</a>!</p>",
-        "Summary": "RUF is a community of students at UM who are learning how to experience, embody, and extend the love of Jesus in the world.",
-        "CategoryIds": [
-            "3655",
-            "3657",
-            "3658"
-        ],
-        "CategoryNames": [
-            "Health & Wellness",
             "Religious/Spiritual",
             "Service/Service Learning"
         ],
@@ -35544,6 +35523,31 @@
     },
     {
         "@search.score": 1.0,
+        "Id": "81742",
+        "InstitutionId": 66,
+        "ParentOrganizationId": 62529,
+        "BranchId": 62529,
+        "Name": "School of Public Health Doctoral Association",
+        "ShortName": "SPhDA",
+        "WebsiteKey": "sphda",
+        "ProfilePicture": "d75d78ce-0d83-49b5-848f-4635d4c7d7a89a107406-f96f-4fe3-aa17-21b12b64088f.png",
+        "Description": "\r\n<p>School of Public Health Doctoral Association seeks to support all UM SPH doctoral students in growing intellectually and professionally by enhancing communication between students, faculty, and administration and leveraging opportunities to enhance the student\r\n experience.</p>\r\n",
+        "Summary": "School of Public Health Doctoral Association seeks to support all UM SPH doctoral students in growing intellectually and professionally by enhancing communication between students, faculty, and administration and leveraging opportunities to for students.",
+        "CategoryIds": [
+            "3649",
+            "3654",
+            "3655"
+        ],
+        "CategoryNames": [
+            "Academic/Honor Societies",
+            "Graduate/Professional",
+            "Health & Wellness"
+        ],
+        "Status": "Active",
+        "Visibility": "Public"
+    },
+    {
+        "@search.score": 1.0,
         "Id": "75120",
         "InstitutionId": 66,
         "ParentOrganizationId": 62529,
@@ -35877,6 +35881,39 @@
             "Time Commitment: 3-5 hours/week",
             "Joining Process: Application",
             "Joining Process: Meeting/Social Attendance"
+        ],
+        "Status": "Active",
+        "Visibility": "Public"
+    },
+    {
+        "@search.score": 1.0,
+        "Id": "70078",
+        "InstitutionId": 66,
+        "ParentOrganizationId": 62529,
+        "BranchId": 62529,
+        "Name": "SGI Buddhist Club",
+        "ShortName": null,
+        "WebsiteKey": "sgibuddhism",
+        "ProfilePicture": "649c51d0-38ea-41a5-814a-fe24e2b53d3c60f7594f-f9bc-48f1-82d3-785d51131987.png",
+        "Description": "<p>The fundamental purpose of SGI Buddhist club is the pursuit of truth as well as development of scholarship, to enable all people to cultivate their characters and enjoy fulfilling and happy lives. SGI Buddhist club seeks to contribute to peace, culture and education based on the philosophy and ideals of the Buddhism of Nichiren Daishonin as shared by the Soka Gakkai International. We seek to establish life long friendships between students that begin within the University of Michigan and extends outward into the community at large.</p>",
+        "Summary": "SGI Buddhist club seeks to contribute to peace, culture and education based on the philosophy and ideals of the Buddhism of Nichiren Daishonin as shared by the Soka Gakkai International.",
+        "CategoryIds": [
+            "3648",
+            "3651",
+            "3655",
+            "3657",
+            "3658",
+            "4212",
+            "4568"
+        ],
+        "CategoryNames": [
+            "Activism",
+            "Cultural/Ethnic",
+            "Health & Wellness",
+            "Religious/Spiritual",
+            "Service/Service Learning",
+            "Environmental",
+            "Gender/Sexuality"
         ],
         "Status": "Active",
         "Visibility": "Public"
@@ -36436,31 +36473,6 @@
     },
     {
         "@search.score": 1.0,
-        "Id": "417479",
-        "InstitutionId": 66,
-        "ParentOrganizationId": 62529,
-        "BranchId": 62529,
-        "Name": "Simply From The Heart at Michigan",
-        "ShortName": "SFTH",
-        "WebsiteKey": "sftheart",
-        "ProfilePicture": "188620e0-31c9-49db-ab9e-cfcbc810462c0670d522-4596-43ba-ba4a-b5cf958f2af8.png",
-        "Description": "<p>Simply From The Heart (SFTH) at Michigan restores confidence, identity, and emotional strength to patients facing chronic or life-threatening illness. Through glam-based therapeutic services&mdash;like bedside visits, immersive pop-ups, and curated beauty boxes&mdash;we help patients feel whole, worthy, and seen.<br /><br />SFTH University Clubs are part of a growing national movement bringing these services into new communities. Clubs host campus-wide awareness events, create glam boxes and bracelets for patients, run beauty product donation drives, and participate in quarterly hospital pop-up days supported by SFTH HQ.<br /><br />Clubs near the University of Michigan may connect with our partnering hospitals: Beaumont Children&rsquo;s (Troy), St. John&rsquo;s (Detroit), Mott Children&rsquo;s and University of Michigan Hospitals (Ann Arbor).</p>",
-        "Summary": "Simply From The Heart (SFTH) at Michigan is a 501(c)(3) nonprofit that empowers patients facing critical illness through glam, dignity, and connection. Our Heart Squad university clubs support this mission across the country.",
-        "CategoryIds": [
-            "3654",
-            "3655",
-            "3658"
-        ],
-        "CategoryNames": [
-            "Graduate/Professional",
-            "Health & Wellness",
-            "Service/Service Learning"
-        ],
-        "Status": "Active",
-        "Visibility": "Public"
-    },
-    {
-        "@search.score": 1.0,
         "Id": "69773",
         "InstitutionId": 66,
         "ParentOrganizationId": 62529,
@@ -36774,6 +36786,31 @@
             "3654"
         ],
         "CategoryNames": [
+            "Academic/Honor Societies",
+            "Graduate/Professional"
+        ],
+        "Status": "Active",
+        "Visibility": "Public"
+    },
+    {
+        "@search.score": 1.0,
+        "Id": "422026",
+        "InstitutionId": 66,
+        "ParentOrganizationId": 62529,
+        "BranchId": 62529,
+        "Name": "Socially Responsible Surgery - University of Michigan Chapter (SRS)",
+        "ShortName": "SRS",
+        "WebsiteKey": "socially-responsible-surgery",
+        "ProfilePicture": null,
+        "Description": "<p>Originally founded in 2014 at Boston Medical Center by Dr. Megan Janeway, SRS aims to establish social responsibility as a core value of surgical practice through four pillars: advocacy, education and mentorship, research, and service.&nbsp; SRS now has over 10 chapters with the University of Michigan SRS being the first chapter in the Midwest founded by medical students Aurelie Tran, Francine Moriguchi, and Uswa Iqbal.</p>\r\n<p>SRS will provide Michigan Medicine&rsquo;s passionate trainees and faculty with a sustainable and collaborative infrastructure to improve access and quality of surgical care to underserved and marginalized communities. We look forward to joining this strong network to achieve our shared mission of equity and justice in surgical care.</p>",
+        "Summary": "SRS will provide Michigan Medicine\u2019s passionate trainees and faculty with a sustainable and collaborative infrastructure to improve access and quality of surgical care to underserved and marginalized communities. ",
+        "CategoryIds": [
+            "3648",
+            "3649",
+            "3654"
+        ],
+        "CategoryNames": [
+            "Activism",
             "Academic/Honor Societies",
             "Graduate/Professional"
         ],
@@ -37315,39 +37352,6 @@
     },
     {
         "@search.score": 1.0,
-        "Id": "406842",
-        "InstitutionId": 66,
-        "ParentOrganizationId": 62529,
-        "BranchId": 62529,
-        "Name": "Somali Student Association ",
-        "ShortName": "SSA",
-        "WebsiteKey": "somali-student-association",
-        "ProfilePicture": "93966776-f5f1-4a0c-9a0f-79ac9bc77f84d1ab4ff6-9420-4d2d-8510-03c36ca3bb2e.PNG",
-        "Description": "<p>The Somali Student Association (SSA) at the University of Michigan is a cultural and community-driven organization dedicated to celebrating Somali heritage, fostering unity, and empowering students through mentorship, networking, and cultural events. Our mission is to create a welcoming space for Somali students and allies, promote academic and professional growth, and strengthen connections within the broader Somali diaspora.</p>",
-        "Summary": "The Somali Student Association (SSA) at the University of Michigan is a cultural and community-driven organization dedicated to celebrating Somali heritage, fostering unity, and empowering students through mentorship, networking, and cultural events.",
-        "CategoryIds": [
-            "3648",
-            "3651",
-            "3652",
-            "3654",
-            "18506",
-            "18511",
-            "18521"
-        ],
-        "CategoryNames": [
-            "Activism",
-            "Cultural/Ethnic",
-            "Science/Technology/Engineering",
-            "Graduate/Professional",
-            "Cost: $0/Semester",
-            "Time Commitment: 1-2 hours/week",
-            "Joining Process: Meeting/Social Attendance"
-        ],
-        "Status": "Active",
-        "Visibility": "Public"
-    },
-    {
-        "@search.score": 1.0,
         "Id": "361779",
         "InstitutionId": 66,
         "ParentOrganizationId": 62529,
@@ -37705,31 +37709,6 @@
             "Activism",
             "Health & Wellness",
             "Gender/Sexuality"
-        ],
-        "Status": "Active",
-        "Visibility": "Public"
-    },
-    {
-        "@search.score": 1.0,
-        "Id": "81742",
-        "InstitutionId": 66,
-        "ParentOrganizationId": 62529,
-        "BranchId": 62529,
-        "Name": "SPhD",
-        "ShortName": null,
-        "WebsiteKey": "sphd",
-        "ProfilePicture": "d75d78ce-0d83-49b5-848f-4635d4c7d7a89a107406-f96f-4fe3-aa17-21b12b64088f.png",
-        "Description": "<p>SPhD seeks to support all UM SPH doctoral students in growing intellectually and professionally by enhancing communication between students, faculty, and administration and leveraging opportunities to enhance the student experience.</p>",
-        "Summary": "SPhD seeks to support all UM SPH doctoral students in growing intellectually and professionally by enhancing communication between students, faculty, and administration and leveraging opportunities to enhance the student experience.",
-        "CategoryIds": [
-            "3649",
-            "3654",
-            "3655"
-        ],
-        "CategoryNames": [
-            "Academic/Honor Societies",
-            "Graduate/Professional",
-            "Health & Wellness"
         ],
         "Status": "Active",
         "Visibility": "Public"
@@ -38682,7 +38661,7 @@
         "ShortName": "SfCE",
         "WebsiteKey": "studentsforcleanenergy",
         "ProfilePicture": "728ea69a-658e-4511-a55f-0cae51d915c39185a082-9165-4f9c-8c88-2f4288c12526.jpg",
-        "Description": "<div>Please join our 2025-26 group chat to receive general club announcements and communications:&nbsp;</div>\r\n<div><a href=\"https://groupme.com/join_group/102579907/LxpwbJEa\">https://groupme.com/join_group/102579907/LxpwbJEa</a>.&nbsp;&nbsp;</div>\r\n<div>&nbsp;</div>\r\n<div>Students for Clean Energy (SfCE) promotes awareness and implementation of renewable energy at the University of Michigan while providing educational and professional development opportunities for its members. We fulfill this mission with our three teams: Engagement, Policy, and Research &amp; Development. SfCE challenges the status quo of burning emissions-producing fuels at U-M and works to promote a just transition towards clean energy.</div>\r\n<div>&nbsp;</div>\r\n<div>We believe that:</div>\r\n<div>&nbsp;</div>\r\n<div>- All people have the right to clean, safe, affordable, and reliable energy.&nbsp;</div>\r\n<div>- The environment has the right to be sustained and healthy.</div>\r\n<div>- The University of Michigan, as a well-endowed, innovative, leading institution, has an obligation to be a pioneer in a just transition to carbon neutrality.</div>\r\n<div>&nbsp;</div>\r\n<div>Weekly meetings for the&nbsp;2025-26 school year will take place on Wednesdays from 7:00 - 8:00 pm ET in the Samuel T. Dana Building room 2520. These meetings have dedicated time for&nbsp;educational activities, team bonding, and guest speakers. Each team also holds weekly meetings to work on their projects - feel free to move around teams and work on different projects throughout the year.</div>\r\n<div>&nbsp;</div>\r\n<div>There is no application to join our club; all are welcome!</div>",
+        "Description": "<div>Please join our 2025-26 group chat to receive general club announcements and communications:&nbsp;</div>\r\n<div><a href=\"https://groupme.com/join_group/102579907/LxpwbJEa\">https://groupme.com/join_group/102579907/LxpwbJEa</a>.&nbsp;&nbsp;</div>\r\n<div>&nbsp;</div>\r\n<div>Students for Clean Energy (SfCE) promotes awareness and implementation of renewable energy at the University of Michigan while providing educational and professional development opportunities for its members. We fulfill this mission with our three teams: Engagement, Policy, and Research &amp; Development. SfCE challenges the status quo of burning emissions-producing fuels at U-M and works to promote a just transition towards clean energy.</div>\r\n<div>&nbsp;</div>\r\n<div>We believe that:</div>\r\n<div>&nbsp;</div>\r\n<div>- All people have the right to clean, safe, affordable, and reliable energy.&nbsp;</div>\r\n<div>- The environment has the right to be sustained and healthy.</div>\r\n<div>- The University of Michigan, as a well-endowed, innovative, leading institution, has an obligation to be a pioneer in a just transition to carbon neutrality.</div>\r\n<div>&nbsp;</div>\r\n<div>Weekly meetings for the&nbsp;2025-26 school year will take place on Wednesdays from 7:00 - 8:00 pm ET in the Samuel T. Dana Building room 2024. These meetings have dedicated time for&nbsp;educational activities, team bonding, and guest speakers. Each team also holds weekly meetings to work on their projects - feel free to move around teams and work on different projects throughout the year.</div>\r\n<div>&nbsp;</div>\r\n<div>There is no application to join our club; all are welcome!</div>",
         "Summary": "Students for Clean Energy (SfCE) is dedicated to increasing awareness, knowledge, and usage of renewable energy at U-M. We fulfill our mission through advocacy, campus projects, outreach, and professional development.",
         "CategoryIds": [
             "3648",
@@ -38728,37 +38707,6 @@
             "Cost: $1-$20/semester",
             "Time Commitment: 1-2 hours/week",
             "Joining Process: Application"
-        ],
-        "Status": "Active",
-        "Visibility": "Public"
-    },
-    {
-        "@search.score": 1.0,
-        "Id": "388265",
-        "InstitutionId": 66,
-        "ParentOrganizationId": 62529,
-        "BranchId": 62529,
-        "Name": "Students for Disability Rights Inclusivity Visibility and Equity (DRIVE)",
-        "ShortName": "DRIVE",
-        "WebsiteKey": "drive",
-        "ProfilePicture": "e2013c98-316f-44a1-ac73-cbb1db5365283990182b-0b3c-4a87-a16a-50e753076046.png",
-        "Description": "<p>Disability Rights Inclusivity Visibility and Equity (DRIVE) exists to be a source of community for Disabled students and a space for students to engage with topics of Disability Justice. Our goal is to facilitate collective student led accessibility and advocacy, and to build community with similarly aligned partners. We hope that through this work we can minimize access barriers, strengthen peer based support, and work towards improving&nbsp;representation of disability, across the ability spectrum. DRIVE is a voluntary student organization, based in the School of Public Health, and is open to all U of M students of any ability status.&nbsp;</p>",
-        "Summary": "Disability Rights Inclusivity Visibility and Equity (DRIVE) is a voluntary student organization that exists to be a source of community for Disabled students and a space for allies to engage with the Disability community. ",
-        "CategoryIds": [
-            "3648",
-            "3651",
-            "3655",
-            "18506",
-            "18511",
-            "18519"
-        ],
-        "CategoryNames": [
-            "Activism",
-            "Cultural/Ethnic",
-            "Health & Wellness",
-            "Cost: $0/Semester",
-            "Time Commitment: 1-2 hours/week",
-            "Joining Process: Automatic Acceptance"
         ],
         "Status": "Active",
         "Visibility": "Public"
@@ -39020,39 +38968,6 @@
     },
     {
         "@search.score": 1.0,
-        "Id": "392983",
-        "InstitutionId": 66,
-        "ParentOrganizationId": 62529,
-        "BranchId": 62529,
-        "Name": "Students Supporting Israel",
-        "ShortName": "SSI",
-        "WebsiteKey": "ssi",
-        "ProfilePicture": "b9ea0df6-9e0e-4558-913f-0fb7193598512d74f467-05fb-4073-9a48-fdc322f5bc79.png",
-        "Description": "<p>Students Supporting Israel (SSI) is a pro-Israel international campus movement that supports the State of Israel. Our mission is to be a clear and confident pro-Israel voice on college campuses and to support students in grassroots pro-Israel advocacy.</p>",
-        "Summary": "Students Supporting Israel (SSI) is a pro-Israel international campus movement that supports the State of Israel. Our mission is to be a clear and confident pro-Israel voice on college campuses and to support students in grassroots pro-Israel advocacy.",
-        "CategoryIds": [
-            "3648",
-            "3651",
-            "3657",
-            "18506",
-            "18512",
-            "18520",
-            "18521"
-        ],
-        "CategoryNames": [
-            "Activism",
-            "Cultural/Ethnic",
-            "Religious/Spiritual",
-            "Cost: $0/Semester",
-            "Time Commitment: 3-5 hours/week",
-            "Joining Process: Interview",
-            "Joining Process: Meeting/Social Attendance"
-        ],
-        "Status": "Active",
-        "Visibility": "Public"
-    },
-    {
-        "@search.score": 1.0,
         "Id": "400772",
         "InstitutionId": 66,
         "ParentOrganizationId": 62529,
@@ -39082,7 +38997,7 @@
         "ShortName": "",
         "WebsiteKey": "sunny",
         "ProfilePicture": "ef1a61cc-399b-4fdd-a314-93ee0775cf5fdbd04442-8119-40ac-ae7e-98fa364c4322.png",
-        "Description": "\r\n<p><span style=\"font-weight:400\">Sunny enriches the lives of foster children by providing a wide variety of experiences that result in unique and unforgettable memories. Outside of coordinating activities and programming for the foster youth, our organization\r\n raises societal awareness about the unmet needs of foster children and inspires individuals to increase their attentiveness to children who are often overlooked. Sunny members also engage in tutoring and penpal programs to build relationships and help the\r\n youth develop skills.</span></p>\r\n",
+        "Description": "<p><span style=\"font-weight: 400;\">Sunny enriches the lives of foster children by providing a wide variety of experiences that result in unique and unforgettable memories. Outside of coordinating activities and programming for the foster youth, our organization raises societal awareness about the unmet needs of foster children and inspires individuals to increase their attentiveness to children who are often overlooked. Sunny members also engage in tutoring and penpal programs to build relationships and help the youth develop skills.</span></p>",
         "Summary": "Sunny enriches the lives of foster children in Metro Detroit by providing engaging activities and enriching mentorship programs.",
         "CategoryIds": [
             "3658",
@@ -39097,6 +39012,29 @@
             "Time Commitment: 1-2 hours/week",
             "Joining Process: Automatic Acceptance",
             "Joining Process: Meeting/Social Attendance"
+        ],
+        "Status": "Active",
+        "Visibility": "Public"
+    },
+    {
+        "@search.score": 1.0,
+        "Id": "73021",
+        "InstitutionId": 66,
+        "ParentOrganizationId": 62529,
+        "BranchId": 62529,
+        "Name": "Support for Incoming Black Students ",
+        "ShortName": "S.I.B.S",
+        "WebsiteKey": "sibs",
+        "ProfilePicture": "34789e97-74dc-463b-818b-16260ed8ffc2d2b1fa64-474d-4eae-a275-671763a61d97.png",
+        "Description": "<p>The mission of SIBS is to increase the retention and success of black students by providing mentorship and unique opportunities for learning and engagement within the broader University of Michigan community; this shall include personal, academic, and professional development opportunities that create a fulfilling first- year experience.</p>\r\n<p>SIBS is a widely respected year-long student run program that sustainably engages Black first year students. We work to provide a successful social and academic experience through mentorship and programming. This is accomplished by:</p>\r\n<p>o Providing year-round recognition for big/little SIBS</p>\r\n<p>o Providing valuable leadership training and professional development opportunities</p>\r\n<p>o Planning well organized and impactful events</p>\r\n<p>o Building relationships through year round connections between big/little SIBS</p>\r\n<p>o Creating opportunities for students to advance into leadership positions</p>\r\n<p>o Maintaining SIBS alumni involvement, engagement, and investment in SIBS</p>\r\n<p>o Assessing the effectiveness and impact of the SIBS programs</p>",
+        "Summary": "The SIBS program strives to increase the retention and success of black students by providing mentorship and unique opportunities for learning and engagement within the broader University of Michigan community.\r\n",
+        "CategoryIds": [
+            "3651",
+            "3658"
+        ],
+        "CategoryNames": [
+            "Cultural/Ethnic",
+            "Service/Service Learning"
         ],
         "Status": "Active",
         "Visibility": "Public"
@@ -40875,7 +40813,7 @@
         "ShortName": "The MMC",
         "WebsiteKey": "themichiganmarketingcollective",
         "ProfilePicture": "a326f7e0-0256-48f2-895a-aae7116f7a7ca45f99db-df36-4dc0-b966-fe26eb4fb371.png",
-        "Description": "\r\n<p><strong>The Michigan Marketing Collective (The MMC)</strong><span style=\"font-weight:400\"> is a student-led organization founded in 2025 that provides hands-on, client-facing marketing experiences for students at the University of Michigan. Through a focus\r\n on creativity and brand aesthetics, The MMC empowers members to deliver strategic, visually compelling solutions to local businesses.</span></p>\r\n<p><span style=\"font-weight:400\">With the core pillars of education, professionalism, and networking, The MMC equips students with the tools and confidence to succeed in the marketing world. Members gain practical experience in branding, campaign strategy,\r\n and content creation through internal roles and external client partnerships.</span></p>\r\n<p><span style=\"font-weight:400\">In addition to monthly member meetings and active client projects, The MMC hosts career development workshops, speaker events, social events, and publishes a curated newsletter,\r\n</span><em><span style=\"font-weight:400\">The Collection\u2014 </span></em><span style=\"font-weight:400\">featuring industry insights, marketing trends, and club highlights. With a wide range of leadership and team roles, students are encouraged to apply their strengths,\r\n explore new skills, and grow within a supportive community.</span></p>\r\n<p><span style=\"font-weight:400\">Students of all backgrounds, perspectives and talents are encouraged to apply during recruitment cycles each fall and winter semester.</span></p>\r\n<p><strong>Mission Statement:</strong></p>\r\n<p><span style=\"font-weight:400\">The Michigan Marketing Collective</span> <span style=\"font-weight:400\">\r\nfacilitates real-world marketing experiences that inspire business excellence and cultivate professional growth for University of Michigan students</span><strong>.\r\n</strong><span style=\"font-weight:400\">The MMC fosters a creative community of diverse perspectives and emerging marketing talent, offering a distinct experience where students can both learn and make meaningful contributions.&nbsp;</span></p>\r\n",
+        "Description": "<p><strong>The Michigan Marketing Collective (The MMC)</strong><span style=\"font-weight: 400;\"> is a student-led organization founded in 2025 that provides hands-on, client-facing marketing experiences for students at the University of Michigan. Through a focus on creativity and brand aesthetics, The MMC empowers members to deliver strategic, visually compelling solutions to local businesses.</span></p>\r\n<p><span style=\"font-weight: 400;\">With the core pillars of education, professionalism, and networking, The MMC equips students with the tools and confidence to succeed in the marketing world. Members gain practical experience in branding, campaign strategy, and content creation through internal roles and external client partnerships.</span></p>\r\n<p><span style=\"font-weight: 400;\">In addition to monthly member meetings and active client projects, The MMC hosts career development workshops, speaker events, social events, and publishes a curated newsletter, </span><em><span style=\"font-weight: 400;\">The Collection&mdash; </span></em><span style=\"font-weight: 400;\">featuring industry insights, marketing trends, and club highlights. With a wide range of leadership and team roles, students are encouraged to apply their strengths, explore new skills, and grow within a supportive community.</span></p>\r\n<p><span style=\"font-weight: 400;\">Students of all backgrounds, perspectives and talents are encouraged to apply during recruitment cycles each fall and winter semester.</span></p>\r\n<p><strong>Mission Statement:</strong></p>\r\n<p><span style=\"font-weight: 400;\">The Michigan Marketing Collective</span> <span style=\"font-weight: 400;\"> facilitates real-world marketing experiences that inspire business excellence and cultivate professional growth for University of Michigan students</span><strong>. </strong><span style=\"font-weight: 400;\">The MMC fosters a creative community of diverse perspectives and emerging marketing talent, offering a distinct experience where students can both learn and make meaningful contributions.&nbsp;</span></p>",
         "Summary": "The Michigan Marketing Collective (The MMC) is a student-led organization founded in 2025 that provides hands-on, client-facing marketing experiences with a focus on creativity and brand aesthetics.",
         "CategoryIds": [
             "3656",
@@ -41251,6 +41189,35 @@
             "Service/Service Learning",
             "Social Fraternity/Sorority",
             "Business & Entrepreneurship"
+        ],
+        "Status": "Active",
+        "Visibility": "Public"
+    },
+    {
+        "@search.score": 1.0,
+        "Id": "74489",
+        "InstitutionId": 66,
+        "ParentOrganizationId": 62529,
+        "BranchId": 62529,
+        "Name": "The Quito Project",
+        "ShortName": "TQP",
+        "WebsiteKey": "thequitoproject",
+        "ProfilePicture": "3c207a91-2ba0-4eb8-ad8b-3d20ffbc2a6e61493ddb-05b5-4af3-af35-2170feb9092c.jpg",
+        "Description": "<p>The Quito Project is a multidisciplinary organization with students and faculty from schools across the University of Michigan including: Social Work, Nursing, Education, Business, Literature Sciences &amp; Arts, Engineering, etc. As of 2023, TQP is in its&nbsp;nineteenth year of operation. Since its formation in 2004, TQP has evolved to support projects in the realm of public health, social work, and education for 8,000 community members of San Martin, San Blas, and Pifo in Quito, Ecuador.</p>\r\n<p>The Quito Project&rsquo;s mission is to collaborate with local partners in developing evidence-based solutions that support and build capacity in the health, educational, and social sectors.</p>\r\n<p>&nbsp;</p>\r\n<p><strong>TQP Model:&nbsp; </strong>In partnership with the Universidad de San Francisco in Quito, students from the University of Michigan partner with education students in Ecuador to hold a summer camp for underprivileged children each summer.&nbsp;The curriculum is student-developed with support from mentor faculty members and emphasizes the strengthening students' understanding of public health and core academic subjects in reading, writing, mathematics and the sciences while encouraging creative expression and exploration, elevating the importance of academic performance, and boosting in-class self-confidence.&nbsp; Each year approximately 60 students aged 5-12 years old attend the camp.&nbsp;</p>\r\n<p>We provide our students with engaging educational activities, two meals at the summer camp, school supplies, and hygienic supplies which is entirely free of charge and organized by undergraduate students from the University of Michigan and La Universidad San Francisco de Quito.&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p><strong>Membership:</strong> The Quito Project members are recruited and managed by the TQP executive board and our faculty advisor. Every fall, TQP recruits UM undergraduate students through campus events, direct marketing, and social media campaigns. Prospective tutors for our program must complete an application and an interview conducted in both English and Spanish before being selected to participate in our summer travel program. However, traditional membership for on-campus activities throughout the school year is open to all and does not have an application nor interview.&nbsp;</p>",
+        "Summary": "The Quito Project is a multidisciplinary organization working to advance education alongside low-resource communities in Ecuador, organized by the collaborative efforts of students from the University of Michigan and La Universidad San Francisco de Quito",
+        "CategoryIds": [
+            "3648",
+            "3649",
+            "3651",
+            "3655",
+            "3658"
+        ],
+        "CategoryNames": [
+            "Activism",
+            "Academic/Honor Societies",
+            "Cultural/Ethnic",
+            "Health & Wellness",
+            "Service/Service Learning"
         ],
         "Status": "Active",
         "Visibility": "Public"
@@ -41815,7 +41782,7 @@
         "ShortName": "UWS",
         "WebsiteKey": "uws",
         "ProfilePicture": "2a765b8c-8859-434f-aca9-8f09862ca668490d0e7d-a5ac-45c0-8b84-154a0bc6cd78.jpg",
-        "Description": "\r\n<p>It is our mission and obligation to promote and foster artistic freedom and philanthropic ideas in minority communities and urban environments that promote unity, writing, and creative expression. Collectively, we will constitute a voice for people coming\r\n from marginalized communities that will strive to familiarize others with the struggles of underrepresented Americans. Our fundamental purpose will follow an original 4-block commandment represented by the acronym MAAP (Minority based, Activism, Art, &amp; Philanthropy).\r\n This constitutes our goal to strive to respectfully represent minorities through activism, art, and philanthropy. MAAP is a guide for U.W.S. and will play a key role in our fundamental decision-making as an organization. At U.W.S. we will provide a safe and\r\n familiar environment for all P.O.C, where each member can hone their skills and participate in movements or shows meant to give back to our communities through entertainment and any aid we find ourselves capable of.</p>\r\n",
+        "Description": "<p>It is our mission and obligation to promote and foster artistic freedom and philanthropic ideas in minority communities and urban environments that promote unity, writing, and creative expression. Collectively, we will constitute a voice for people coming from marginalized communities that will strive to familiarize others with the struggles of underrepresented Americans. Our fundamental purpose will follow an original 4-block commandment represented by the acronym MAAP (Minority based, Activism, Art, &amp; Philanthropy). This constitutes our goal to strive to respectfully represent minorities through activism, art, and philanthropy. MAAP is a guide for U.W.S. and will play a key role in our fundamental decision-making as an organization. At U.W.S. we will provide a safe and familiar environment for all P.O.C, where each member can hone their skills and participate in movements or shows meant to give back to our communities through entertainment and any aid we find ourselves capable of.</p>",
         "Summary": "The Urban Wordsmith Society is an organization designed to foster artistic expression in minority communities through conversations, literature, and creative auditory expression. All voices are welcome and anyone is welcome to come share and listen.\r\n",
         "CategoryIds": [
             "3648",
@@ -42221,29 +42188,6 @@
             "Cost: $0/Semester",
             "Time Commitment: 6-10 hours/week",
             "Joining Process: Audition"
-        ],
-        "Status": "Active",
-        "Visibility": "Public"
-    },
-    {
-        "@search.score": 1.0,
-        "Id": "383628",
-        "InstitutionId": 66,
-        "ParentOrganizationId": 62529,
-        "BranchId": 62529,
-        "Name": "Traders at Michigan",
-        "ShortName": "TAM",
-        "WebsiteKey": "traders-at-michigan",
-        "ProfilePicture": "62291340-15f5-41b0-a0e6-d5057cc5d157e2bd5009-9fbd-40b8-8240-59fbd16ddbd1.png",
-        "Description": "<p>Quantitative Finance is a very mysterious field. We seek to educate students at UMich so that they're informed and prepared enough to enter industry! We're excited to hone the future of software engineering, trading, and research in the quant world! We're sponsored by quant finance leaders in Citadel + Citadel Securities, Jane Street, Susquehanna International Group, DRW, Optiver, Five Rings, IMC Trading, DE Shaw, Old Mission Capital, Two Sigma, Chicago Trading Company, Hudson River Trading!</p>\r\n<p>Our organization is primarily focused on education, making sure that everyone is&nbsp;academically prepared to their fullest extent, while also ensuring that everyone is knowledgeable about all the different tricks to land interviews and bypass the difficulties in entering the industry.</p>\r\n<p>We hosted UMich's first ever nationwide poker tournament, the UMich Collegiate Poker Tournament. We had 120 participants from over 30 different schools, and provided free flights and lodging for all participants from across the country.</p>\r\n<p>We also hosted UMich's first ever nationwide trading competition, the UMich Trading Competition. We had 120 participants from over 20 different schools, and developed 4 proprietary games from scratch for our contestants to play!</p>\r\n<p>There are several misconceptions surrounding quantitative finance and we seek to nullify them: many people think you have to be a genius or that you have to work 70 hour weeks in this industry, however this couldn't be further from the truth! Really, the people who thrive the most in industry are normal smart folks who understand and are able to apply fundamental concepts excellently! Also, quantitative finance is very similar to tech in the regard that it is not a job that is meant to stress you out or have you overworked - many find that the industry is much more relaxed and collaborative than it gives off!</p>\r\n<p>Through a rigorous and thorough education department, an extensive focus on networking with peers within and out of the club, recruiters, and companies, and a strong sense of community, we seek to enable everyone at UMich to enter the world of quantitative finance.</p>\r\n<p>A few of our offerings are as follows:</p>\r\n<p>- Hundreds of interview preparation materials</p>\r\n<p>- Pdfs of several industry \"must-reads\"</p>\r\n<p>- Multiple social events each month to tighten bonds and a sense of community within the club</p>\r\n<p>- Strategic partnerships with similar clubs and in industry leaders</p>\r\n<p>- Opportunities to expand your network to interns and full-timers at the best companies in industry (as well as recruiters)</p>\r\n<p>Even if you don't know if \"quant\" is right for you, we encourage you to ask yourself:</p>\r\n<p>- Do I like solving challenging problems in creative ways?</p>\r\n<p>- Am I very analytical?</p>\r\n<p>- Do I like strategic games like poker and chess?</p>\r\n<p>If the answer to any of these is yes, we encourage you to apply to Traders at Michigan because you may be destined for this field and you just don't know it yet!</p>",
-        "Summary": "Quantitative Finance (Trading and Research) is a very mysterious field. We seek to educate students at UMich so that they're informed and prepared enough to enter industry! We host the UMich College Poker Tournament and UMich Trading Competition!",
-        "CategoryIds": [
-            "3652",
-            "3654"
-        ],
-        "CategoryNames": [
-            "Science/Technology/Engineering",
-            "Graduate/Professional"
         ],
         "Status": "Active",
         "Visibility": "Public"
@@ -42892,35 +42836,6 @@
     },
     {
         "@search.score": 1.0,
-        "Id": "84553",
-        "InstitutionId": 66,
-        "ParentOrganizationId": 62529,
-        "BranchId": 62529,
-        "Name": "UNICEF at the University of Michigan",
-        "ShortName": "UNICEF UM",
-        "WebsiteKey": "unicefum",
-        "ProfilePicture": "829fde5c-6b18-44d9-b2f5-9bfa35523d699209c82b-23c4-487b-890d-ace5a2d499d0.png",
-        "Description": "\r\n<p><span style=\"font-weight:400\">The United Nations Children\u2019s Fund (UNICEF) works in 190 countries and territories to save children's lives, defend their rights, and help them fulfill their potential from early childhood through adolescence. The UNICEF Campus\r\n Initiative at the University of Michigan plays a powerful role in this mission. As one of more than 600 active Campus Initiative Clubs around the country, members of the UNICEF chapter at the University of Michigan strive to educate, advocate and fundraise\r\n on behalf of UNICEF to reach zero preventable deaths.&nbsp;</span></p>\r\n<p>Interested in joining? Fill out <a href=\"https://forms.gle/E5WwLo2vHBVJpdgZ9\">\r\nthis interest form</a> to stay updated.</p>\r\n",
-        "Summary": "The United Nations Children\u2019s Fund (UNICEF) works in 190 countries and territories to save children's lives, to defend their rights, and to help them fulfill their potential from early childhood through adolescence.\r\n",
-        "CategoryIds": [
-            "3648",
-            "3651",
-            "3655",
-            "3658",
-            "4212"
-        ],
-        "CategoryNames": [
-            "Activism",
-            "Cultural/Ethnic",
-            "Health & Wellness",
-            "Service/Service Learning",
-            "Environmental"
-        ],
-        "Status": "Active",
-        "Visibility": "Public"
-    },
-    {
-        "@search.score": 1.0,
         "Id": "419278",
         "InstitutionId": 66,
         "ParentOrganizationId": 62529,
@@ -43511,39 +43426,6 @@
             "Science/Technology/Engineering",
             "Media & Creative Writing",
             "Sport Clubs & Recreation"
-        ],
-        "Status": "Active",
-        "Visibility": "Public"
-    },
-    {
-        "@search.score": 1.0,
-        "Id": "120458",
-        "InstitutionId": 66,
-        "ParentOrganizationId": 62529,
-        "BranchId": 62529,
-        "Name": "University of Michigan Figure Skating Club",
-        "ShortName": "UMFSC",
-        "WebsiteKey": "umichskating",
-        "ProfilePicture": "61403ea2-14b4-47c9-a1dd-df488cb9012e348e362b-bfbc-4ae6-81be-e58dd9434020.jpg",
-        "Description": "<p>Visit our webpage for lots of additional information about our team! <a href=\"https://sites.google.com/umich.edu/umichskating/\" target=\"_blank\" rel=\"noopener\"> https://sites.google.com/umich.edu/umichskating/</a></p>\r\n<p><span style=\"font-weight: 400;\">(</span>Prospective U-M skater?&nbsp;<span style=\"font-weight: 400;\">Check out the </span><a href=\"https://sites.google.com/umich.edu/umichskating/prospective-skaters\" target=\"_blank\" rel=\"noopener\">'Prospective Skaters' page</a><span style=\"font-weight: 400;\"> where you'll find a link to our <strong>interest form</strong> and an extensive <strong>list of FAQs</strong></span> just for you!<span style=\"font-weight: 400;\">)</span></p>\r\n<p>&nbsp;</p>\r\n<p style=\"text-align: center;\">\u303d\ufe0f\u26f8\ufe0f</p>\r\n<p style=\"text-align: center;\">&nbsp;</p>\r\n<p><span style=\"font-weight: 400;\">The University of Michigan Figure Skating Club (UMFSC) is a university organization and U.S. Figure Skating (USFS) collegiate team that offers competitive and recreational opportunities for University of Michigan students.</span></p>\r\n<p>&nbsp;</p>\r\n<p><span style=\"font-weight: 400;\">During the school year, the UMFSC team competes at the three midwestern USFS intercollegiate competitions and (if we qualify) at the USFS National Intercollegiate Final as well. The intercollegiate competitions include competitive events in freestyle, solo dance, and 'team maneuvers'.</span></p>\r\n<p>&nbsp;</p>\r\n<p><span style=\"font-weight: 400;\">In addition, the UMFSC team hosts multiple showcases at our home rink throughout the year. These public performances are a great chance for skaters to perform for fun and show off their talents to family and friends.</span></p>\r\n<p>&nbsp;</p>\r\n<p><span style=\"font-weight: 400;\">UMFSC has three practice sessions per week at our campus rink, Yost Ice Arena. These sessions serve not only as a time to practice individual skills and programs but also as an opportunity for skaters to build team friendships.</span></p>\r\n<p>&nbsp;</p>\r\n<p><span style=\"font-weight: 400;\">We currently employ two skate coach professionals from the Ann Arbor Ice Cube as coaches for our team.</span></p>\r\n<p>&nbsp;</p>\r\n<p><span style=\"font-weight: 400;\">All UMFSC team members must be current, registered members of USFS in order to be eligible to compete. UMFSC does not provide USFS testing opportunities, but many skaters take advantage of the ice time, coaches, and testing sessions offered at nearby rinks, including the Ann Arbor Ice Cube.</span></p>",
-        "Summary": "The University of Michigan Figure Skating Club (UMFSC) is a university organization and U.S. Figure Skating (USFS) collegiate team that offers competitive and recreational opportunities for University of Michigan students.",
-        "CategoryIds": [
-            "3650",
-            "3655",
-            "3660",
-            "18512",
-            "18519",
-            "18521",
-            "18526"
-        ],
-        "CategoryNames": [
-            "Creative & Performing Arts",
-            "Health & Wellness",
-            "Sport Clubs & Recreation",
-            "Time Commitment: 3-5 hours/week",
-            "Joining Process: Automatic Acceptance",
-            "Joining Process: Meeting/Social Attendance",
-            "Cost: $501+/Semester"
         ],
         "Status": "Active",
         "Visibility": "Public"
@@ -45538,7 +45420,7 @@
         "Name": "Wolverine Shifa",
         "ShortName": null,
         "WebsiteKey": "wolverineshifa",
-        "ProfilePicture": "158420d7-1c82-4452-9bc8-3cd1e630dcd557edb71d-2c83-40a6-a0da-306823726cb1.png",
+        "ProfilePicture": "cb23bfca-d65d-49c3-8d19-b8d4a84b168a5352cf3c-c77c-4543-a5f0-a3ed20fc4ac4.jpg",
         "Description": "<p><span style=\"font-weight: 400;\">Wolverine Shifa serves as the University of Michigan chapter of </span><a href=\"https://www.theshifainstitute.org/\"><span style=\"font-weight: 400;\">The Shifa Institute</span></a><span style=\"font-weight: 400;\">, a non-profit organization based in Michigan dedicated to providing mental health resources, education, and support for the local Muslim community. The Shifa Institute serves as our umbrella organization, collaborating with clinicians, professionals, and students to bridge the gap in Muslim psychoeducation.</span></p>\r\n<p>&nbsp;</p>\r\n<p><span style=\"font-weight: 400;\">Wolverine Shifa exists to serve the Muslim community in Ann Arbor through mental health education.&nbsp; As a university chapter of The Shifa Institute, we aim to create dialogue around mental health and emphasize evidence-based approaches to address challenges on a community level.</span></p>\r\n<p><br style=\"font-weight: 400;\" /><br style=\"font-weight: 400;\" /><br style=\"font-weight: 400;\" /></p>",
         "Summary": "Wolverine Shifa aims to provide the Muslim community at the University of Michigan with resources to acknowledge, manage, and deal with mental health challenges, along with destigmatizing mental health in Muslim American households and immigrant families",
         "CategoryIds": [
