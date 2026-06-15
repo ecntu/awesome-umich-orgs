@@ -31,9 +31,8 @@
 
         <!-- Search box -->
         <form id="search-form">
-            <input id="searched-for-org" list="org-datalist" placeholder="Start Typing Org Name" size="35" onfocus="this.value=''" onChange="search_org()" autofocus>
-                <datalist id="org-datalist"></datalist>
-            </input>
+            <input id="searched-for-org" list="org-datalist" placeholder="Start Typing Org Name" size="35" autofocus>
+            <datalist id="org-datalist"></datalist>
         </form>
 
         <br><p id="showing">Showing 50 random orgs</p>        
@@ -67,18 +66,26 @@
             document.getElementById("header").scrollIntoView({behavior: 'smooth'});
         }
 
+        function sync_search_placeholder(){
+            let searchInput = document.getElementById("searched-for-org");
+            searchInput.placeholder = searchInput.value ? "" : search_placeholder;
+        }
+
         function search_org(){
-            let org_name = document.getElementById("searched-for-org").value;
-            let org_id = org_name.split('(')[1].split(')')[0];
-            // Clear search box
-            document.getElementById("searched-for-org").value = "";
-            if(org_id){
+            let searchInput = document.getElementById("searched-for-org");
+            sync_search_placeholder();
+            let match = searchInput.value.match(/\(([^)]+)\)$/);
+            let org_id = match ? match[1] : null;
+            if(org_id && org_data[org_id]){
+                searchInput.value = "";
+                sync_search_placeholder();
                 show_similar_to(org_id);
             }
         }
 
         // Global vars
         let showing_list = [];
+        let search_placeholder = document.getElementById("searched-for-org").placeholder;
 
         // Fill in updated since info
         document.getElementById("updated").innerHTML = timeSince(new Date(parseInt(updated))) + ' ago';
@@ -89,7 +96,13 @@
             let option=document.createElement("option");
             option.value=org_data[org]['Name'] + ' (' + org_data[org]['Id'] + ')';
             datalist.appendChild(option);
-        }             
+        }
+
+        document.getElementById("searched-for-org").addEventListener("input", search_org);
+        document.getElementById("search-form").addEventListener("submit", function(event) {
+            event.preventDefault();
+            search_org();
+        });
 
         // Fill grid with random orgs
         let random_orgs = Object.keys(org_data);
